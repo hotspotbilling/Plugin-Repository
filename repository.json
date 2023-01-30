@@ -1,8 +1,30 @@
 {
     "plugins" : [
-
     ],
     "payment_gateway" : [
-
+        {
+            "name" : "Paypal",
+            "url" : "https://paypal.com",
+            "github" : "https://github.com/hotspotbilling/phpnuxbill-paypal",
+            "last_update" : "2022-12-14"
+        },
+        {
+            "name" : "Duitku - Indonesia",
+            "url" : "https://duitku.com",
+            "github" : "https://github.com/hotspotbilling/phpnuxbill-duitku",
+            "last_update" : "2022-12-14"
+        },
+        {
+            "name" : "Tripay",
+            "url" : "https://tripay.co.id/?ref=TP19304",
+            "github" : "https://github.com/hotspotbilling/phpnuxbill-tripay",
+            "last_update" : "2022-12-14"
+        },
+        {
+            "name" : "Xendit",
+            "url" : "https://xendit.com",
+            "github" : "https://github.com/hotspotbilling/phpnuxbill-xendit",
+            "last_update" : "2022-12-14"
+        }
     ]
 }
