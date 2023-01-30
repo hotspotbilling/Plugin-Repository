@@ -1,9 +1,19 @@
 {
-	"plugins": [],
+	"plugins": [
+		{
+			"name": "Mikrotik Import",
+			"description": "Import existing Mikrotik Hotspot Package and User to PHPNuxBill. This script will import Users and Profiles, but will not add active packages to user.",
+			"author": "ibnux",
+			"url": "https://github.com/hotspotbilling/phpnuxbill-plugin-mikrotik-import",
+			"github": "https://github.com/hotspotbilling/phpnuxbill-plugin-mikrotik-import",
+			"last_update": "2022-12-14"
+		}
+	],
 	"payment_gateway": [
 		{
 			"name": "Paypal",
 			"description": "",
+			"author": "ibnux",
 			"url": "https://paypal.com",
 			"github": "https://github.com/hotspotbilling/phpnuxbill-paypal",
 			"last_update": "2022-12-14"
@@ -11,6 +21,7 @@
 		{
 			"name": "Duitku - Indonesia",
 			"description": "",
+			"author": "ibnux",
 			"url": "https://duitku.com",
 			"github": "https://github.com/hotspotbilling/phpnuxbill-duitku",
 			"last_update": "2022-12-14"
@@ -18,6 +29,7 @@
 		{
 			"name": "Tripay",
 			"description": "",
+			"author": "ibnux",
 			"url": "https://tripay.co.id/?ref=TP19304",
 			"github": "https://github.com/hotspotbilling/phpnuxbill-tripay",
 			"last_update": "2022-12-14"
@@ -25,6 +37,7 @@
 		{
 			"name": "Xendit",
 			"description": "",
+			"author": "ibnux",
 			"url": "https://xendit.com",
 			"github": "https://github.com/hotspotbilling/phpnuxbill-xendit",
 			"last_update": "2022-12-14"
