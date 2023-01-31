@@ -1,6 +1,7 @@
 {
 	"plugins": [
 		{
+            "id" : "phpnuxbill-plugin-mikrotik-import",
 			"name": "Mikrotik Import",
 			"description": "Import existing Mikrotik Hotspot Package and User to PHPNuxBill. This script will import Users and Profiles, but will not add active packages to user.",
 			"author": "ibnux",
@@ -11,6 +12,7 @@
 	],
 	"payment_gateway": [
 		{
+            "id" : "phpnuxbill-paypal",
 			"name": "Paypal",
 			"description": "",
 			"author": "ibnux",
@@ -19,6 +21,7 @@
 			"last_update": "2022-12-14"
 		},
 		{
+            "id" : "phpnuxbill-duitku",
 			"name": "Duitku - Indonesia",
 			"description": "",
 			"author": "ibnux",
@@ -27,6 +30,7 @@
 			"last_update": "2022-12-14"
 		},
 		{
+            "id" : "phpnuxbill-tripay",
 			"name": "Tripay",
 			"description": "",
 			"author": "ibnux",
@@ -35,6 +39,7 @@
 			"last_update": "2022-12-14"
 		},
 		{
+            "id" : "phpnuxbill-xendit",
 			"name": "Xendit",
 			"description": "",
 			"author": "ibnux",
