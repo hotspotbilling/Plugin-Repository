@@ -18,7 +18,7 @@
 			"author": "ibnux",
 			"url": "https://paypal.com",
 			"github": "https://github.com/hotspotbilling/phpnuxbill-paypal",
-			"last_update": "2022-12-14"
+			"last_update": "2023-03-12"
 		},
 		{
             "id" : "phpnuxbill-duitku",
@@ -27,7 +27,7 @@
 			"author": "ibnux",
 			"url": "https://duitku.com",
 			"github": "https://github.com/hotspotbilling/phpnuxbill-duitku",
-			"last_update": "2022-12-14"
+			"last_update": "2023-03-12"
 		},
 		{
             "id" : "phpnuxbill-tripay",
@@ -36,7 +36,7 @@
 			"author": "ibnux",
 			"url": "https://tripay.co.id/?ref=TP19304",
 			"github": "https://github.com/hotspotbilling/phpnuxbill-tripay",
-			"last_update": "2022-12-14"
+			"last_update": "2023-03-12"
 		},
 		{
             "id" : "phpnuxbill-xendit",
@@ -45,7 +45,7 @@
 			"author": "ibnux",
 			"url": "https://xendit.com",
 			"github": "https://github.com/hotspotbilling/phpnuxbill-xendit",
-			"last_update": "2022-12-14"
+			"last_update": "2023-03-12"
 		}
 	]
 }
