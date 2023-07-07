@@ -46,6 +46,15 @@
 			"url": "https://xendit.com",
 			"github": "https://github.com/hotspotbilling/phpnuxbill-xendit",
 			"last_update": "2023-03-12"
+		},
+		{
+            "id" : "phpnuxbill-bkash",
+			"name": "bKash",
+			"description": "Payment Gateway for Bangladesh",
+			"author": "ibnux",
+			"url": "https://www.bkash.com",
+			"github": "https://github.com/hotspotbilling/phpnuxbill-bkash",
+			"last_update": "2023-7-7"
 		}
 	]
 }
