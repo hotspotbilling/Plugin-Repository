@@ -1,7 +1,7 @@
 {
 	"plugins": [
 		{
-            "id" : "phpnuxbill-plugin-mikrotik-import",
+            		"id" : "phpnuxbill-plugin-mikrotik-import",
 			"name": "Mikrotik Import",
 			"description": "Import existing Mikrotik Hotspot Package and User to PHPNuxBill. This script will import Users and Profiles, but will not add active packages to user.",
 			"author": "ibnux",
@@ -12,7 +12,7 @@
 	],
 	"payment_gateway": [
 		{
-            "id" : "phpnuxbill-paypal",
+            		"id" : "phpnuxbill-paypal",
 			"name": "Paypal",
 			"description": "Paypal Gateway, Country supported by Paypal",
 			"author": "ibnux",
@@ -21,7 +21,7 @@
 			"last_update": "2023-03-12"
 		},
 		{
-            "id" : "phpnuxbill-duitku",
+            		"id" : "phpnuxbill-duitku",
 			"name": "Duitku",
 			"description": "Duitku only in Indonesia",
 			"author": "ibnux",
@@ -30,7 +30,7 @@
 			"last_update": "2023-03-12"
 		},
 		{
-            "id" : "phpnuxbill-tripay",
+            		"id" : "phpnuxbill-tripay",
 			"name": "Tripay",
 			"description": "Tripay only in Indonesia",
 			"author": "ibnux",
@@ -39,7 +39,7 @@
 			"last_update": "2023-03-12"
 		},
 		{
-            "id" : "phpnuxbill-xendit",
+            		"id" : "phpnuxbill-xendit",
 			"name": "Xendit",
 			"description": "xendit only in Indonesia, Phillipine untested",
 			"author": "ibnux",
@@ -48,13 +48,22 @@
 			"last_update": "2023-03-12"
 		},
 		{
-            "id" : "phpnuxbill-bkash",
+            		"id" : "phpnuxbill-bkash",
 			"name": "bKash",
 			"description": "Payment Gateway for Bangladesh",
 			"author": "ibnux",
 			"url": "https://www.bkash.com",
 			"github": "https://github.com/hotspotbilling/phpnuxbill-bkash",
 			"last_update": "2023-7-7"
+		},
+		{
+            		"id" : "phpnuxbill-flutterwave-payment-gateway",
+			"name": "Flutterwave",
+			"description": "Payment Gateway FlutterWave",
+			"author": "Focuslinkstech",
+			"url": "https://flutterwave.com/us",
+			"github": "https://github.com/hotspotbilling/phpnuxbill-flutterwave-payment-gateway",
+			"last_update": "2023-7-23"
 		}
 	]
 }
