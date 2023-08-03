@@ -61,8 +61,17 @@
 			"name": "Flutterwave",
 			"description": "Payment Gateway FlutterWave",
 			"author": "Focuslinkstech",
-			"url": "https://flutterwave.com/us",
+			"url": "https://github.com/Focuslinkstech/phpnuxbill-flutterwave-payment-gateway",
 			"github": "https://github.com/hotspotbilling/phpnuxbill-flutterwave-payment-gateway",
+			"last_update": "2023-7-28"
+		},
+		{
+            		"id" : "phpnuxbill-paystack-payment-gateway",
+			"name": "Paystack",
+			"description": "Payment Gateway Paystack.com",
+			"author": "Focuslinkstech",
+			"url": "https://github.com/Focuslinkstech/phpnuxbill-paystack-payment-gateway",
+			"github": "https://github.com/hotspotbilling/phpnuxbill-paystack-payment-gateway",
 			"last_update": "2023-7-28"
 		}
 	]
