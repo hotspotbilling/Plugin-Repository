@@ -8,6 +8,15 @@
 			"url": "https://github.com/hotspotbilling/phpnuxbill-plugin-mikrotik-import",
 			"github": "https://github.com/hotspotbilling/phpnuxbill-plugin-mikrotik-import",
 			"last_update": "2022-12-14"
+		},
+		{
+            		"id" : "plugin-test-port",
+			"name": "Port Tester",
+			"description": "Check if your server block some port.",
+			"author": "ibnux",
+			"url": "https://github.com/hotspotbilling/plugin-test-port",
+			"github": "https://github.com/hotspotbilling/plugin-test-port",
+			"last_update": "2023-08-23"
 		}
 	],
 	"payment_gateway": [
