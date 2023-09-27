@@ -45,7 +45,16 @@
 			"author": "ibnux",
 			"url": "https://tripay.co.id/?ref=TP19304",
 			"github": "https://github.com/hotspotbilling/phpnuxbill-tripay",
-			"last_update": "2023-03-12"
+			"last_update": "2023-09-27"
+		},
+		{
+            		"id" : "phpnuxbill-tripay-proxy",
+			"name": "Tripay Proxy",
+			"description": "Tripay only in Indonesia. Payment Gateway ini untuk pengguna NuxBill yang tidak punya IP static",
+			"author": "ibnux",
+			"url": "https://tripay.co.id/?ref=TP19304",
+			"github": "https://github.com/hotspotbilling/phpnuxbill-tripay-proxy",
+			"last_update": "2023-09-27"
 		},
 		{
             		"id" : "phpnuxbill-xendit",
