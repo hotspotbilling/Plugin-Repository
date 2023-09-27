@@ -10,6 +10,15 @@
 			"last_update": "2022-12-14"
 		},
 		{
+            		"id" : "Plugin-Tripay-View-Payment",
+			"name": "Tripay View Payment",
+			"description": "Dengan Plugin ini, Pembeli tidak akan diarahkan ke Web Tripay, instruksi pembayaran akan langsung ditampilkan.",
+			"author": "ibnux",
+			"url": "https://github.com/hotspotbilling/Plugin-Tripay-View-Payment",
+			"github": "https://github.com/hotspotbilling/Plugin-Tripay-View-Payment",
+			"last_update": "2023-09-27"
+		},
+		{
             		"id" : "plugin-test-port",
 			"name": "Port Tester",
 			"description": "Check if your server block some port.",
