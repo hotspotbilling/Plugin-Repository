@@ -26,6 +26,15 @@
 			"url": "https://github.com/hotspotbilling/plugin-test-port",
 			"github": "https://github.com/hotspotbilling/plugin-test-port",
 			"last_update": "2023-08-23"
+		},
+		{
+            		"id" : "Plugin-Radius-Client-Tester",
+			"name": "Port Tester",
+			"description": "Radius Client Tester",
+			"author": "Focuslinkstech",
+			"url": "https://github.com/Focuslinkstech/Radius-Client-Tester/fork,
+			"github": "https://github.com/hotspotbilling/Plugin-Radius-Client-Tester",
+			"last_update": "2023-10-17"
 		}
 	],
 	"payment_gateway": [
