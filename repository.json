@@ -35,6 +35,15 @@
 			"url": "https://github.com/Focuslinkstech/Radius-Client-Tester",
 			"github": "https://github.com/hotspotbilling/Plugin-Radius-Client-Tester",
 			"last_update": "2023-10-17"
+		},
+		{
+            		"id" : "plugin-clear-cache",
+			"name": "Clear Compiled Cache",
+			"description": "Clear compiled cache files",
+			"author": "Focuslinkstech",
+			"url": "hhttps://github.com/Focuslinkstech/phpnuxbill-clear-cache",
+			"github": "https://github.com/hotspotbilling/plugin-clear-cache",
+			"last_update": "2023-10-25"
 		}
 	],
 	"payment_gateway": [
