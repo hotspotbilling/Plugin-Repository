@@ -41,9 +41,18 @@
 			"name": "Clear Compiled Cache",
 			"description": "Clear compiled cache files",
 			"author": "Focuslinkstech",
-			"url": "hhttps://github.com/Focuslinkstech/phpnuxbill-clear-cache",
+			"url": "https://github.com/Focuslinkstech/phpnuxbill-clear-cache",
 			"github": "https://github.com/hotspotbilling/plugin-clear-cache",
 			"last_update": "2023-10-25"
+		},
+		{
+            		"id" : "sytem-information-plugin",
+			"name": "System Information",
+			"description": "The plugin is used to monitor system or server performance, check running services",
+			"author": "Focuslinkstech",
+			"url": "https://github.com/Focuslinkstech/phpnuxbill-sytem-information-plugin",
+			"github": "https://github.com/hotspotbilling/sytem-information-plugin",
+			"last_update": "2023-11-3"
 		}
 	],
 	"payment_gateway": [
