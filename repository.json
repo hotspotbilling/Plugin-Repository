@@ -53,6 +53,15 @@
 			"url": "https://github.com/Focuslinkstech/phpnuxbill-sytem-information-plugin",
 			"github": "https://github.com/hotspotbilling/sytem-information-plugin",
 			"last_update": "2023-11-3"
+		},
+		{
+            		"id" : "database-backup-and-restore-plugin",
+			"name": "Extended Database Backup and Restore",
+			"description": "This Plugin is used to create database backup, restore, and download, but it is still in development, it has a lot of bugs and needs to be fixed, you can pull a request if errors or bugs, and it will be maintained from time to time",
+			"author": "Focuslinkstech",
+			"url": "https://github.com/Focuslinkstech/phpnuxbill-database-backup-and-restore-plugin",
+			"github": "https://github.com/hotspotbilling/database-backup-and-restore-plugin",
+			"last_update": "2023-11-3"
 		}
 	],
 	"payment_gateway": [
