@@ -1,6 +1,15 @@
 {
 	"plugins": [
 		{
+            		"id" : "plugin-router-monitor",
+			"name": "Mikrotik Monitoring",
+			"description": "This plugin is created to monitor Mikrotik Router from PHPNuxBill and its features include: Router System Information, Interface Monitoring, Online Hotspot Users, Online PPPoE Users. e.t.c ",
+			"author": "Focuslinkstech",
+			"url": "https://github.com/Focuslinkstech/phpnuxbill-router-monitor-plugin",
+			"github": "https://github.com/hotspotbilling/plugin-router-monitor",
+			"last_update": "2023-11-12"
+		},
+		{
             		"id" : "phpnuxbill-plugin-mikrotik-import",
 			"name": "Mikrotik Import",
 			"description": "Import existing Mikrotik Hotspot Package and User to PHPNuxBill. This script will import Users and Profiles, but will not add active packages to user.",
