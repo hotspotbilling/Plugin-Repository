@@ -85,10 +85,10 @@
 		},
 		{
             		"id" : "phpnuxbill-duitku",
-			"name": "Duitku",
-			"description": "Duitku only in Indonesia",
+			"name": "Duitku *Rekomendasi*",
+			"description": "Duitku Direkomendasikan untuk pengguna di Indonesia, klik Website untuk melakukan pendaftaran",
 			"author": "ibnux",
-			"url": "https://duitku.com",
+			"url": "https://hs.aspireapp.com/id/phpnuxbill-aspire",
 			"github": "https://github.com/hotspotbilling/phpnuxbill-duitku",
 			"last_update": "2023-03-12"
 		},
