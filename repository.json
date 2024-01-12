@@ -124,7 +124,7 @@
 			"name": "umspay",
 			"description": "UMS Pay is Payment Gateway for Kenya",
 			"author": "Alvin Kiveu",
-			"url": "hhttps://umeskiasoftwares.com/",
+			"url": "https://portal.umeskiasoftwares.com",
 			"github": "https://github.com/hotspotbilling/umspay-payment-gateway",
 			"last_update": "2023-1-12"
 		},
