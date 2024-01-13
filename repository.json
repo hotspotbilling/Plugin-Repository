@@ -120,7 +120,7 @@
 			"last_update": "2023-03-12"
 		},
 		{
-            		"id" : "phpnuxbill-umspay",
+            		"id" : "umspay-payment-gateway",
 			"name": "umspay",
 			"description": "UMS Pay is Payment Gateway for Kenya",
 			"author": "Alvin Kiveu",
