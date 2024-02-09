@@ -76,7 +76,7 @@
 			"id": "phpnuxbill-radius-online-users",
 			"name": "Radius online user viewer",
 			"description": "To see whos online, and can disconect the user",
-			"author": "Focuslinkstech",
+			"author": "Gerandonks",
 			"url": "https://github.com/gerandonk/phpnuxbill-radius-online-users",
 			"github": "https://github.com/hotspotbilling/phpnuxbill-radius-online-users",
 			"last_update": "2024-02-08"
