@@ -19,6 +19,15 @@
 			"last_update": "2022-12-14"
 		},
 		{
+			"id": "Internet-speedtest-plugin",
+			"name": "Internet Speed Test",
+			"description": "Speedtest plugin is designed to provide users with an easy and efficient way to measure their internet connection speed directly through the PHPNuxBill interface.",
+			"author": "Focuslinkstech",
+			"url": "https://github.com/Focuslinkstech/phpnuxbill-Internet-speedtest-plugin",
+			"github": "https://github.com/hotspotbilling/phpnuxbill-Internet-speedtest-plugin",
+			"last_update": "2024-06-8"
+		},
+		{
 			"id": "Plugin-Tripay-View-Payment",
 			"name": "Tripay View Payment",
 			"description": "Dengan Plugin ini, Pembeli tidak akan diarahkan ke Web Tripay, instruksi pembayaran akan langsung ditampilkan.",
@@ -133,7 +142,7 @@
 			"name": "umspay",
 			"description": "UMS Pay is Payment Gateway for Kenya",
 			"author": "Alvin Kiveu",
-			"url": "https://portal.umeskiasoftwares.com/login",
+			"url": "https://portal.umeskiasoftwares.com",
 			"github": "https://github.com/hotspotbilling/umspay-payment-gateway",
 			"last_update": "2023-1-12"
 		},
