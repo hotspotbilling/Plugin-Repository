@@ -19,7 +19,7 @@
 			"last_update": "2022-12-14"
 		},
 		{
-			"id": "Internet-speedtest-plugin",
+			"id": "phpnuxbill-Internet-speedtest-plugin",
 			"name": "Internet Speed Test",
 			"description": "Speedtest plugin is designed to provide users with an easy and efficient way to measure their internet connection speed directly through the PHPNuxBill interface.",
 			"author": "Focuslinkstech",
