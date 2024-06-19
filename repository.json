@@ -73,6 +73,15 @@
 			"last_update": "2023-11-3"
 		},
 		{
+			"id": "Plugin-Interface-Monitoring",
+			"name": "Interface Monitoring",
+			"description": "Mikrotik Interface Monitoring",
+			"author": "kevindoni",
+			"url": "https://github.com/kevindoni/interfacemonitoring",
+			"github": "https://github.com/ibnux/Plugin-Interface-Monitoring",
+			"last_update": "2024-06-19"
+		},
+		{
 			"id": "database-backup-and-restore-plugin",
 			"name": "Extended Database Backup and Restore",
 			"description": "This Plugin is used to create database backup, restore, and download, but it is still in development, it has a lot of bugs and needs to be fixed, you can pull a request if errors or bugs, and it will be maintained from time to time",
