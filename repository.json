@@ -78,7 +78,7 @@
 			"description": "Mikrotik Interface Monitoring",
 			"author": "kevindoni",
 			"url": "https://github.com/kevindoni/interfacemonitoring",
-			"github": "https://github.com/ibnux/Plugin-Interface-Monitoring",
+			"github": "https://github.com/hotspotbilling/Plugin-Interface-Monitoring",
 			"last_update": "2024-06-19"
 		},
 		{
@@ -87,7 +87,7 @@
 			"description": "Plugin Log Mikrotik For PhpNuxBill",
 			"author": "kevindoni",
 			"url": "https://github.com/kevindoni/Log_mikrotik_phpnuxbill",
-			"github": "https://github.com/ibnux/Plugin_Log_mikrotik_phpnuxbill",
+			"github": "https://github.com/hotspotbilling/Plugin_Log_mikrotik_phpnuxbill",
 			"last_update": "2024-06-19"
 		},
 		{
