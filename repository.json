@@ -73,15 +73,6 @@
 			"last_update": "2023-11-3"
 		},
 		{
-			"id": "Plugin_Log_mikrotik_phpnuxbill",
-			"name": "Mikrotik Log Viewer",
-			"description": "Plugin Log Mikrotik For PhpNuxBill",
-			"author": "kevindoni",
-			"url": "https://github.com/kevindoni/Log_mikrotik_phpnuxbill",
-			"github": "https://github.com/hotspotbilling/Plugin_Log_mikrotik_phpnuxbill",
-			"last_update": "2024-06-19"
-		},
-		{
 			"id": "database-backup-and-restore-plugin",
 			"name": "Extended Database Backup and Restore",
 			"description": "This Plugin is used to create database backup, restore, and download, but it is still in development, it has a lot of bugs and needs to be fixed, you can pull a request if errors or bugs, and it will be maintained from time to time",
