@@ -89,6 +89,15 @@
 			"url": "https://github.com/gerandonk/phpnuxbill-radius-online-users",
 			"github": "https://github.com/hotspotbilling/phpnuxbill-radius-online-users",
 			"last_update": "2024-02-08"
+		},
+		{
+			"id": "WhatsApp-Gateway-Plugin-for-PHPNuxBill",
+			"name": "Whatsapp Gateway",
+			"description": "Whatsapp Gateway Client Multiple Phone Number, random send.",
+			"author": "ibnux",
+			"url": "https://github.com/hotspotbilling/WhatsApp-Gateway-Plugin-for-PHPNuxBill",
+			"github": "https://github.com/hotspotbilling/WhatsApp-Gateway-Plugin-for-PHPNuxBill",
+			"last_update": "2024-06-27"
 		}
 	],
 	"payment_gateway": [
