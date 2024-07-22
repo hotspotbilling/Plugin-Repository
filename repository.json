@@ -98,6 +98,15 @@
 			"url": "https://github.com/hotspotbilling/WhatsApp-Gateway-Plugin-for-PHPNuxBill",
 			"github": "https://github.com/hotspotbilling/WhatsApp-Gateway-Plugin-for-PHPNuxBill",
 			"last_update": "2024-06-27"
+		},
+		{
+			"id": "IPDR-Plugin",
+			"name": "IPDR Plugin",
+			"description": "Internet Protocol Detail Record (IPDR) to log Customer activity",
+			"author": "ibnux",
+			"url": "https://github.com/hotspotbilling/IPDR-Plugin",
+			"github": "https://github.com/hotspotbilling/IPDR-Plugin",
+			"last_update": "2024-07-2"
 		}
 	],
 	"payment_gateway": [
