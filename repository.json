@@ -101,8 +101,8 @@
 		},
 		{
 			"id": "IPDR-Plugin",
-			"name": "IPDR Plugin",
-			"description": "Internet Protocol Detail Record (IPDR) to log Customer activity",
+			"name": "IPDR Plugin | Paid Plugin",
+			"description": "Internet Protocol Detail Record (IPDR) to log Customer activity, Works with Hotspot and radius. PPPOE not yet supported. To download this, you need to setup Github Authentication",
 			"author": "ibnux",
 			"url": "https://github.com/hotspotbilling/IPDR-Plugin",
 			"github": "https://github.com/hotspotbilling/IPDR-Plugin",
