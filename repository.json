@@ -119,6 +119,26 @@
 			"url": "https://t.me/ibnux",
 			"github": "https://github.com/hotspotbilling/IPDR-Plugin",
 			"last_update": "2024-07-2"
+		},
+		{
+			"id": "phpnuxbill-hotspot-system",
+			"name": "Hotspot System | Paid Plugin",
+			"description": "Phpnuxbill Hotspot System Plugin is a powerful and versatile tool for managing and automating hotspot networks. It is designed to be integrated with the Phpnuxbill billing and customer management platform, providing a comprehensive solution for small and medium-sized businesses that offer public internet access.",
+			"ispaid": true,
+			"author": "Focuslinkstech",
+			"url": "https://t.me/focuslinkstech",
+			"github": "https://github.com/Focuslinkstech/phpnuxbill-hotspot-system",
+			"last_update": "2024-08-6"
+		},
+		{
+			"id": "phpnuxbill-support-system",
+			"name": "Support Ticket System | Paid Plugin",
+			"description": "The Phpnuxbill Plugin Support Ticket is a powerful and versatile plugin designed to enhance customer support and streamline ticket management within your Phpnuxbill environment. This plugin provides a seamless and efficient way to handle customer inquiries, technical issues, and other support-related matters.",
+			"ispaid": true,
+			"author": "Focuslinkstech",
+			"url": "https://t.me/focuslinkstech",
+			"github": "https://github.com/Focuslinkstech/phpnuxbill-support-system",
+			"last_update": "2024-08-6"
 		}
 	],
 	"payment_gateway": [
