@@ -232,5 +232,17 @@
 			"github": "https://github.com/hotspotbilling/Stripe-Payment-Gateway",
 			"last_update": "2024-8-1"
 		}
-	]
+	],
+    "devices" : [
+		{
+			"id": "Voucher-Device",
+			"name": "Voucher",
+			"description": "Customer can buy Voucher, it can activate later or give it as a Gift",
+			"ispaid": false,
+			"author": "ibnux",
+			"url": "https://github.com/hotspotbilling/Voucher-Device",
+			"github": "https://github.com/hotspotbilling/Voucher-Device",
+			"last_update": "2024-8-8"
+		}
+    ]
 }
