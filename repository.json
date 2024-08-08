@@ -237,7 +237,7 @@
 		{
 			"id": "Voucher-Device",
 			"name": "Voucher",
-			"description": "Customer can buy Voucher, it can activate later or give it as a Gift",
+			"description": "Customer can buy Voucher, it can activate later or give it as a Gift. Only for PHPNuxBill Version 2024.8.8 and above",
 			"ispaid": false,
 			"author": "ibnux",
 			"url": "https://github.com/hotspotbilling/Voucher-Device",
