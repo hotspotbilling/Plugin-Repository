@@ -213,6 +213,16 @@
 			"last_update": "2023-7-28"
 		},
 		{
+			"id": "phpnuxbill-thawani-payment-gateway",
+			"name": "Thawani",
+			"description": "Thawani Pay app is the simplest, smartest, and most secure way to manage your finances anywhere, anytime. Link up to five bank cards within the app, top up your Mojab wallet, pay utility bills, buy gift cards, and more features. Explore Thawani app today and enjoy the experience.",
+			"ispaid": false,
+			"author": "Abdalrahman Molood",
+			"url": "https://github.com/amolood/phpnuxbill-thawani-payment-gateway",
+			"github": "https://github.com/hotspotbilling/phpnuxbill-thawani-payment-gateway",
+			"last_update": "2024-8-8"
+		},
+		{
 			"id": "Stripe-Payment-Gateway",
 			"name": "Stripe | Paid Plugin",
 			"description": "Payment Gateway Stripe.com, paid plugin, To download this, you need to setup Github Authentication",
