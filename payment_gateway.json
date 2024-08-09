@@ -1,0 +1,112 @@
+[
+    {
+        "id": "phpnuxbill-paypal",
+        "name": "Paypal",
+        "description": "Paypal Gateway, Country supported by Paypal",
+        "ispaid": false,
+        "author": "ibnux",
+        "url": "https://paypal.com",
+        "github": "https://github.com/hotspotbilling/phpnuxbill-paypal",
+        "last_update": "2023-03-12"
+    },
+    {
+        "id": "phpnuxbill-duitku",
+        "name": "Duitku *Rekomendasi*",
+        "description": "Duitku Direkomendasikan untuk pengguna di Indonesia, klik Website untuk melakukan pendaftaran",
+        "ispaid": false,
+        "author": "ibnux",
+        "url": "https://hs.aspireapp.com/id/phpnuxbill-aspire",
+        "github": "https://github.com/hotspotbilling/phpnuxbill-duitku",
+        "last_update": "2023-03-12"
+    },
+    {
+        "id": "phpnuxbill-tripay",
+        "name": "Tripay",
+        "description": "Tripay only in Indonesia",
+        "ispaid": false,
+        "author": "ibnux",
+        "url": "https://tripay.co.id/?ref=TP19304",
+        "github": "https://github.com/hotspotbilling/phpnuxbill-tripay",
+        "last_update": "2023-09-27"
+    },
+    {
+        "id": "phpnuxbill-tripay-proxy",
+        "name": "Tripay Proxy",
+        "description": "Tripay only in Indonesia. Payment Gateway ini untuk pengguna NuxBill yang tidak punya IP static",
+        "ispaid": false,
+        "author": "ibnux",
+        "url": "https://tripay.co.id/?ref=TP19304",
+        "github": "https://github.com/hotspotbilling/phpnuxbill-tripay-proxy",
+        "last_update": "2023-09-27"
+    },
+    {
+        "id": "phpnuxbill-xendit",
+        "name": "Xendit",
+        "description": "xendit only in Indonesia, Phillipine untested",
+        "ispaid": false,
+        "author": "ibnux",
+        "url": "https://xendit.com",
+        "github": "https://github.com/hotspotbilling/phpnuxbill-xendit",
+        "last_update": "2023-03-12"
+    },
+    {
+        "id": "umspay-payment-gateway",
+        "name": "umspay",
+        "description": "UMS Pay is Payment Gateway for Kenya",
+        "ispaid": false,
+        "author": "Alvin Kiveu",
+        "url": "https://portal.umeskiasoftwares.com",
+        "github": "https://github.com/hotspotbilling/umspay-payment-gateway",
+        "last_update": "2023-1-12"
+    },
+    {
+        "id": "phpnuxbill-bkash",
+        "name": "bKash",
+        "description": "Payment Gateway for Bangladesh",
+        "ispaid": false,
+        "author": "ibnux",
+        "url": "https://www.bkash.com",
+        "github": "https://github.com/hotspotbilling/phpnuxbill-bkash",
+        "last_update": "2023-7-7"
+    },
+    {
+        "id": "phpnuxbill-flutterwave-payment-gateway",
+        "name": "Flutterwave",
+        "description": "Payment Gateway FlutterWave",
+        "ispaid": false,
+        "author": "Focuslinkstech",
+        "url": "https://github.com/Focuslinkstech/phpnuxbill-flutterwave-payment-gateway",
+        "github": "https://github.com/hotspotbilling/phpnuxbill-flutterwave-payment-gateway",
+        "last_update": "2023-7-28"
+    },
+    {
+        "id": "phpnuxbill-paystack-payment-gateway",
+        "name": "Paystack",
+        "description": "Payment Gateway Paystack.com",
+        "ispaid": false,
+        "author": "Focuslinkstech",
+        "url": "https://github.com/Focuslinkstech/phpnuxbill-paystack-payment-gateway",
+        "github": "https://github.com/hotspotbilling/phpnuxbill-paystack-payment-gateway",
+        "last_update": "2023-7-28"
+    },
+    {
+        "id": "phpnuxbill-thawani-payment-gateway",
+        "name": "Thawani",
+        "description": "Thawani Pay app is the simplest, smartest, and most secure way to manage your finances anywhere, anytime. Link up to five bank cards within the app, top up your Mojab wallet, pay utility bills, buy gift cards, and more features. Explore Thawani app today and enjoy the experience.",
+        "ispaid": false,
+        "author": "Abdalrahman Molood",
+        "url": "https://github.com/amolood/phpnuxbill-thawani-payment-gateway",
+        "github": "https://github.com/hotspotbilling/phpnuxbill-thawani-payment-gateway",
+        "last_update": "2024-8-8"
+    },
+    {
+        "id": "Stripe-Payment-Gateway",
+        "name": "Stripe | Paid Plugin",
+        "description": "Payment Gateway Stripe.com, paid plugin, To download this, you need to setup Github Authentication",
+        "ispaid": true,
+        "author": "ibnux",
+        "url": "https://t.me/ibnux",
+        "github": "https://github.com/hotspotbilling/Stripe-Payment-Gateway",
+        "last_update": "2024-8-1"
+    }
+]
