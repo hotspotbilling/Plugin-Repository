@@ -10,6 +10,16 @@
         "last_update": "2023-11-12"
     },
     {
+	"id": "Plugin-Routers-Status",
+	"name": "API Based Routers Status Check",
+	"description": "The API Based Routers Status Check plugin provides a reliable solution for monitoring the status of Mikrotik routers. This plugin efficiently checks and displays whether each router is online or offline, offering real-time insights directly from your dashboard",
+	"ispaid": false,
+	"author": "pravhjp",
+	"url": "https://github.com/pravhjp/Plugin-Routers-Status",
+	"github": "https://github.com/pravhjp/Plugin-Routers-Status",
+	"last_update": "2024-08-10"
+    },
+    {
         "id": "phpnuxbill-plugin-mikrotik-import",
         "name": "Mikrotik Import",
         "description": "Import existing Mikrotik Hotspot Package and User to PHPNuxBill. This script will import Users and Profiles, but will not add active packages to user.",
