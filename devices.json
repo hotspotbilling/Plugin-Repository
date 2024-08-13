@@ -8,5 +8,15 @@
         "url": "https://github.com/hotspotbilling/Voucher-Device",
         "github": "https://github.com/hotspotbilling/Voucher-Device",
         "last_update": "2024-8-8"
+    },
+    {
+        "id": "Chillispot-Device",
+        "name": "Chillispot",
+        "description": "Hotspot Voucher using Chilispot Openwrt and Radius Mysql",
+        "ispaid": false,
+        "author": "Arneta.ID",
+        "url": "https://github.com/hotspotbilling/Chillispot-Device",
+        "github": "https://github.com/hotspotbilling/Chillispot-Device",
+        "last_update": "2024-8-13"
     }
 ]
