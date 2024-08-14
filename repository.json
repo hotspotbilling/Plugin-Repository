@@ -138,7 +138,7 @@
 			"author": "Focuslinkstech",
 			"url": "https://t.me/focuslinkstech",
 			"github": "https://github.com/Focuslinkstech/phpnuxbill-hotspot-system",
-			"last_update": "2024-08-6"
+			"last_update": "2024-08-13"
 		},
 		{
 			"id": "phpnuxbill-support-system",
@@ -148,8 +148,59 @@
 			"author": "Focuslinkstech",
 			"url": "https://t.me/focuslinkstech",
 			"github": "https://github.com/Focuslinkstech/phpnuxbill-support-system",
-			"last_update": "2024-08-6"
+			"last_update": "2024-08-13"
+		},
+		{
+			"id": "mpesa-stkpush-hotspot-system-payment-gatetway",
+			"name": "MPesa STKPush Hotspot System Gateway | Paid Plugin",
+			"description": "The MPesa STKPush Hotspot System Payment Gateway allows users to seamlessly pay for internet access using MPesa. It integrates directly with the hotspot system for phpnuxbill, prompting users to authorize payments via their mobile device, ensuring a secure and efficient transaction process. This gateway simplifies the payment experience, making it easier for customers to purchase internet access on the go. works with hotspot system only.",
+			"ispaid": true,
+			"author": "Focuslinkstech",
+			"url": "https://t.me/focuslinkstech",
+			"github": "https://github.com/Focuslinkstech/mpesa-stkpush-hotspot-system-payment-gatetway",
+			"last_update": "2024-08-14"
+		},
+		{
+			"id": "paystack-hotspot-system-payment-gatetway",
+			"name": "Paystack Hotspot System Gateway | Paid Plugin",
+			"description": "The Paystack Hotspot System Payment Gateway is a secure and efficient solution that enables users to pay for Wi-Fi hotspot access using Paystack's reliable payment processing platform. It integrates seamlessly with the hotspot system for phpnuxbill, offering a smooth payment experience with various payment methods, ensuring fast and hassle-free transactions for users accessing internet services, works with hotspot system only.",
+			"ispaid": true,
+			"author": "Focuslinkstech",
+			"url": "https://t.me/focuslinkstech",
+			"github": "https://github.com/Focuslinkstech/paystack-hotspot-system-payment-gatetway",
+			"last_update": "2024-08-14"
+		},
+		{
+			"id": "phpnuxbill-freeradius-mysql-data-usage-plugin",
+			"name": "Advanced Radius-MySQL Data Usage | Paid Plugin",
+			"description": "Advanced Data Usage Plugin for Radius-MySQL, its designed to monitor user daily weekly and monthtly data consumption, To download this, you need to setup Github Authentication.",
+			"ispaid": true,
+			"author": "Focuslinkstech",
+			"url": "https://t.me/focuslinkstech",
+			"github": "https://github.com/Focuslinkstech/phpnuxbill-freeradius-mysql-data-usage-plugin",
+			"last_update": "2024-08-14"
+		},
+		{
+			"id": "phpnuxbill-mikrotik-data-usage-pppoe-plugin",
+			"name": "Advanced Mikrotik PPPoE Data Usage | Paid Plugin",
+			"description": "Advanced Mikrotik PPPoE Data Usage, it use Mikrotik API to get user data use and live traffic it works only if the user is onine, To download this, you need to setup Github Authentication.",
+			"ispaid": true,
+			"author": "Focuslinkstech",
+			"url": "https://t.me/focuslinkstech",
+			"github": "https://github.com/Focuslinkstech/phpnuxbill-mikrotik-data-usage-pppoe-plugin",
+			"last_update": "2024-08-14"
+		},
+		{
+			"id": "phpnuxbill-suspension-page-plugin",
+			"name": "Suspension and Payment Page | Paid Plugin",
+			"description": "Suspension Page with payment processing page, its designed to ease customer payment, with user verification, This plugin is free but you have purchased the payment gateway.",
+			"ispaid": false,
+			"author": "Focuslinkstech",
+			"url": "https://t.me/focuslinkstech",
+			"github": "https://github.com/Focuslinkstech/phpnuxbill-suspension-page-plugin",
+			"last_update": "2024-08-14"
 		}
+
 	],
 	"payment_gateway": [
 		{
@@ -261,6 +312,26 @@
 			"url": "https://t.me/ibnux",
 			"github": "https://github.com/hotspotbilling/Stripe-Payment-Gateway",
 			"last_update": "2024-8-1"
+		},
+		{
+			"id": "phpnuxbill-sslcommerz-payment-gateway",
+			"name": "SSLcommerz | Paid Plugin",
+			"description": "Payment Gateway sslcommerz.com, paid plugin, To download this, you need to setup Github Authentication",
+			"ispaid": true,
+			"author": "Focuslinkstech",
+			"url": "https://t.me/focuslinkstech",
+			"github": "https://github.com/Focuslinkstech/phpnuxbill-sslcommerz-payment-gateway",
+			"last_update": "2024-8-14"
+		},
+		{
+			"id": "phpnuxbill-payu-payment-gateway",
+			"name": "PayU.in | Paid Plugin",
+			"description": "Payment Gateway PayU.in, paid plugin, To download this, you need to setup Github Authentication",
+			"ispaid": true,
+			"author": "Focuslinkstech",
+			"url": "https://t.me/focuslinkstech",
+			"github": "https://github.com/Focuslinkstech/phpnuxbill-payu-payment-gateway",
+			"last_update": "2024-8-14"
 		}
 	],
     "devices" : [
