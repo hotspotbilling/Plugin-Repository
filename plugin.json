@@ -158,5 +158,15 @@
         "url": "https://amolood.com",
         "github": "https://github.com/amolood/phpnuxbill-users-data-usage-plugin",
         "last_update": "2024-08-9"
+    },
+    {
+        "id": "Twilio-Plugin",
+        "name": "Twilio-Plugin | Paid Plugin",
+        "description": "Using Twillio as Gateway to send SMS or Whatsapp",
+        "ispaid": true,
+        "author": "ibnux",
+        "url": "https://t.me/ibnux",
+        "github": "https://github.com/hotspotbilling/Twilio-Plugin",
+        "last_update": "2024-07-2"
     }
 ]

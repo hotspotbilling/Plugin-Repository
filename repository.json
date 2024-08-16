@@ -131,6 +131,16 @@
 			"last_update": "2024-07-2"
 		},
 		{
+			"id": "Twilio-Plugin",
+			"name": "Twilio-Plugin | Paid Plugin",
+			"description": "Using Twillio as Gateway to send SMS or Whatsapp",
+			"ispaid": true,
+			"author": "ibnux",
+			"url": "https://t.me/ibnux",
+			"github": "https://github.com/hotspotbilling/Twilio-Plugin",
+			"last_update": "2024-07-2"
+		},
+		{
 			"id": "phpnuxbill-hotspot-system",
 			"name": "Hotspot System | Paid Plugin",
 			"description": "Phpnuxbill Hotspot System Plugin is a powerful and versatile tool for managing and automating hotspot networks. It is designed to be integrated with the Phpnuxbill billing and customer management platform, providing a comprehensive solution for small and medium-sized businesses that offer public internet access.",
