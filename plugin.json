@@ -1,172 +1,172 @@
 [
-    {
-        "id": "plugin-router-monitor",
-        "name": "Mikrotik Monitoring",
-        "description": "This plugin is created to monitor Mikrotik Router from PHPNuxBill and its features include: Router System Information, Interface Monitoring, Online Hotspot Users, Online PPPoE Users. e.t.c ",
-        "ispaid": false,
-        "author": "Focuslinkstech",
-        "url": "https://github.com/Focuslinkstech/phpnuxbill-router-monitor-plugin",
-        "github": "https://github.com/hotspotbilling/plugin-router-monitor",
-        "last_update": "2023-11-12"
-    },
-    {
-        "id": "phpnuxbill-plugin-mikrotik-import",
-        "name": "Mikrotik Import",
-        "description": "Import existing Mikrotik Hotspot Package and User to PHPNuxBill. This script will import Users and Profiles, but will not add active packages to user.",
-        "ispaid": false,
-        "author": "ibnux",
-        "url": "https://github.com/hotspotbilling/phpnuxbill-plugin-mikrotik-import",
-        "github": "https://github.com/hotspotbilling/phpnuxbill-plugin-mikrotik-import",
-        "last_update": "2022-12-14"
-    },
-    {
-        "id": "phpnuxbill-Internet-speedtest-plugin",
-        "name": "Internet Speed Test",
-        "description": "Speedtest plugin is designed to provide users with an easy and efficient way to measure their internet connection speed directly through the PHPNuxBill interface.",
-        "ispaid": false,
-        "author": "Focuslinkstech",
-        "url": "https://github.com/Focuslinkstech/phpnuxbill-Internet-speedtest-plugin",
-        "github": "https://github.com/hotspotbilling/phpnuxbill-Internet-speedtest-plugin",
-        "last_update": "2024-06-8"
-    },
-    {
-        "id": "Plugin-Tripay-View-Payment",
-        "name": "Tripay View Payment",
-        "description": "Dengan Plugin ini, Pembeli tidak akan diarahkan ke Web Tripay, instruksi pembayaran akan langsung ditampilkan.",
-        "ispaid": false,
-        "author": "ibnux",
-        "url": "https://github.com/hotspotbilling/Plugin-Tripay-View-Payment",
-        "github": "https://github.com/hotspotbilling/Plugin-Tripay-View-Payment",
-        "last_update": "2023-09-27"
-    },
-    {
-        "id": "plugin-test-port",
-        "name": "Port Tester",
-        "description": "Check if your server block some port.",
-        "ispaid": false,
-        "author": "ibnux",
-        "url": "https://github.com/hotspotbilling/plugin-test-port",
-        "github": "https://github.com/hotspotbilling/plugin-test-port",
-        "last_update": "2023-08-23"
-    },
-    {
-        "id": "Plugin-Radius-Client-Tester",
-        "name": "Radius Client Tester",
-        "description": "For testing Radius Server",
-        "ispaid": false,
-        "author": "Focuslinkstech",
-        "url": "https://github.com/Focuslinkstech/Radius-Client-Tester",
-        "github": "https://github.com/hotspotbilling/Plugin-Radius-Client-Tester",
-        "last_update": "2023-10-17"
-    },
-    {
-        "id": "plugin-clear-cache",
-        "name": "Clear Compiled Cache",
-        "description": "Clear compiled cache files",
-        "ispaid": false,
-        "author": "Focuslinkstech",
-        "url": "https://github.com/Focuslinkstech/phpnuxbill-clear-cache",
-        "github": "https://github.com/hotspotbilling/plugin-clear-cache",
-        "last_update": "2023-10-25"
-    },
-    {
-        "id": "sytem-information-plugin",
-        "name": "System Information",
-        "description": "The plugin is used to monitor system or server performance, check running services",
-        "ispaid": false,
-        "author": "Focuslinkstech",
-        "url": "https://github.com/Focuslinkstech/phpnuxbill-sytem-information-plugin",
-        "github": "https://github.com/hotspotbilling/sytem-information-plugin",
-        "last_update": "2023-11-3"
-    },
-    {
-        "id": "database-backup-and-restore-plugin",
-        "name": "Extended Database Backup and Restore",
-        "description": "This Plugin is used to create database backup, restore, and download, but it is still in development, it has a lot of bugs and needs to be fixed, you can pull a request if errors or bugs, and it will be maintained from time to time",
-        "ispaid": false,
-        "author": "Focuslinkstech",
-        "url": "https://github.com/Focuslinkstech/phpnuxbill-database-backup-and-restore-plugin",
-        "github": "https://github.com/hotspotbilling/database-backup-and-restore-plugin",
-        "last_update": "2023-11-3"
-    },
-    {
-        "id": "phpnuxbill-radius-online-users",
-        "name": "Radius online user viewer",
-        "description": "To see whos online, and can disconect the user",
-        "ispaid": false,
-        "author": "Gerandonks",
-        "url": "https://github.com/gerandonk/phpnuxbill-radius-online-users",
-        "github": "https://github.com/hotspotbilling/phpnuxbill-radius-online-users",
-        "last_update": "2024-02-08"
-    },
-    {
-			"id": "Radius-NAS-Status",
-			"name": "Radius NAS Online Offline Status Checker",
-			"description": "Radius NAS Status Plugin to Check Status About NAS Online / Offline",
-			"ispaid": false,
-			"author": "pravhjp",
-			"url": "https://github.com/pravhjp/Radius-NAS-Status",
-			"github": "https://github.com/pravhjp/Radius-NAS-Status",
-			"last_update": "2024-08-09"
-		},
-    {
-        "id": "WhatsApp-Gateway-Plugin-for-PHPNuxBill",
-        "name": "Whatsapp Gateway",
-        "description": "Whatsapp Gateway Client Multiple Phone Number, random send.",
-        "ispaid": false,
-        "author": "ibnux",
-        "url": "https://github.com/hotspotbilling/WhatsApp-Gateway-Plugin-for-PHPNuxBill",
-        "github": "https://github.com/hotspotbilling/WhatsApp-Gateway-Plugin-for-PHPNuxBill",
-        "last_update": "2024-06-27"
-    },
-    {
-        "id": "IPDR-Plugin",
-        "name": "IPDR Plugin | Paid Plugin",
-        "description": "Internet Protocol Detail Record (IPDR) to log Customer activity, Works with Hotspot, PPPOE, and radius. To download this, you need to setup Github Authentication",
-        "ispaid": true,
-        "author": "ibnux",
-        "url": "https://t.me/ibnux",
-        "github": "https://github.com/hotspotbilling/IPDR-Plugin",
-        "last_update": "2024-07-2"
-    },
-    {
-        "id": "phpnuxbill-hotspot-system",
-        "name": "Hotspot System | Paid Plugin",
-        "description": "Phpnuxbill Hotspot System Plugin is a powerful and versatile tool for managing and automating hotspot networks. It is designed to be integrated with the Phpnuxbill billing and customer management platform, providing a comprehensive solution for small and medium-sized businesses that offer public internet access.",
-        "ispaid": true,
-        "author": "Focuslinkstech",
-        "url": "https://t.me/focuslinkstech",
-        "github": "https://github.com/Focuslinkstech/phpnuxbill-hotspot-system",
-        "last_update": "2024-08-6"
-    },
-    {
-        "id": "phpnuxbill-support-system",
-        "name": "Support Ticket System | Paid Plugin",
-        "description": "The Phpnuxbill Plugin Support Ticket is a powerful and versatile plugin designed to enhance customer support and streamline ticket management within your Phpnuxbill environment. This plugin provides a seamless and efficient way to handle customer inquiries, technical issues, and other support-related matters.",
-        "ispaid": true,
-        "author": "Focuslinkstech",
-        "url": "https://t.me/focuslinkstech",
-        "github": "https://github.com/Focuslinkstech/phpnuxbill-support-system",
-        "last_update": "2024-08-6"
-    },
-    {
-        "id": "phpnuxbill-users-data-usage-plugin",
-        "name": "User Data Usage Plugin",
-        "description": "The User Data Usage Plugin is a feature for the Phpnuxbill for both user and admin , any suggestions just send it on whatsapp +249912740956.",
-        "ispaid": false,
-        "author": "amolood",
-        "url": "https://amolood.com",
-        "github": "https://github.com/amolood/phpnuxbill-users-data-usage-plugin",
-        "last_update": "2024-08-9"
-    },
-    {
-        "id": "Twilio-Plugin",
-        "name": "Twilio-Plugin | Paid Plugin",
-        "description": "Using Twillio as Gateway to send SMS or Whatsapp",
-        "ispaid": true,
-        "author": "ibnux",
-        "url": "https://t.me/ibnux",
-        "github": "https://github.com/hotspotbilling/Twilio-Plugin",
-        "last_update": "2024-07-2"
-    }
+	{
+		"id": "plugin-router-monitor",
+		"name": "Mikrotik Monitoring",
+		"description": "This plugin is created to monitor Mikrotik Router from PHPNuxBill and its features include: Router System Information, Interface Monitoring, Online Hotspot Users, Online PPPoE Users. e.t.c ",
+		"ispaid": false,
+		"author": "Focuslinkstech",
+		"url": "https://github.com/Focuslinkstech/phpnuxbill-router-monitor-plugin",
+		"github": "https://github.com/hotspotbilling/plugin-router-monitor",
+		"last_update": "2023-11-12"
+	},
+	{
+		"id": "phpnuxbill-plugin-mikrotik-import",
+		"name": "Mikrotik Import",
+		"description": "Import existing Mikrotik Hotspot Package and User to PHPNuxBill. This script will import Users and Profiles, but will not add active packages to user.",
+		"ispaid": false,
+		"author": "ibnux",
+		"url": "https://github.com/hotspotbilling/phpnuxbill-plugin-mikrotik-import",
+		"github": "https://github.com/hotspotbilling/phpnuxbill-plugin-mikrotik-import",
+		"last_update": "2022-12-14"
+	},
+	{
+		"id": "phpnuxbill-Internet-speedtest-plugin",
+		"name": "Internet Speed Test",
+		"description": "Speedtest plugin is designed to provide users with an easy and efficient way to measure their internet connection speed directly through the PHPNuxBill interface.",
+		"ispaid": false,
+		"author": "Focuslinkstech",
+		"url": "https://github.com/Focuslinkstech/phpnuxbill-Internet-speedtest-plugin",
+		"github": "https://github.com/hotspotbilling/phpnuxbill-Internet-speedtest-plugin",
+		"last_update": "2024-06-8"
+	},
+	{
+		"id": "Plugin-Tripay-View-Payment",
+		"name": "Tripay View Payment",
+		"description": "Dengan Plugin ini, Pembeli tidak akan diarahkan ke Web Tripay, instruksi pembayaran akan langsung ditampilkan.",
+		"ispaid": false,
+		"author": "ibnux",
+		"url": "https://github.com/hotspotbilling/Plugin-Tripay-View-Payment",
+		"github": "https://github.com/hotspotbilling/Plugin-Tripay-View-Payment",
+		"last_update": "2023-09-27"
+	},
+	{
+		"id": "plugin-test-port",
+		"name": "Port Tester",
+		"description": "Check if your server block some port.",
+		"ispaid": false,
+		"author": "ibnux",
+		"url": "https://github.com/hotspotbilling/plugin-test-port",
+		"github": "https://github.com/hotspotbilling/plugin-test-port",
+		"last_update": "2023-08-23"
+	},
+	{
+		"id": "Plugin-Radius-Client-Tester",
+		"name": "Radius Client Tester",
+		"description": "For testing Radius Server",
+		"ispaid": false,
+		"author": "Focuslinkstech",
+		"url": "https://github.com/Focuslinkstech/Radius-Client-Tester",
+		"github": "https://github.com/hotspotbilling/Plugin-Radius-Client-Tester",
+		"last_update": "2023-10-17"
+	},
+	{
+		"id": "plugin-clear-cache",
+		"name": "Clear Compiled Cache",
+		"description": "Clear compiled cache files",
+		"ispaid": false,
+		"author": "Focuslinkstech",
+		"url": "https://github.com/Focuslinkstech/phpnuxbill-clear-cache",
+		"github": "https://github.com/hotspotbilling/plugin-clear-cache",
+		"last_update": "2023-10-25"
+	},
+	{
+		"id": "sytem-information-plugin",
+		"name": "System Information",
+		"description": "The plugin is used to monitor system or server performance, check running services",
+		"ispaid": false,
+		"author": "Focuslinkstech",
+		"url": "https://github.com/Focuslinkstech/phpnuxbill-sytem-information-plugin",
+		"github": "https://github.com/hotspotbilling/sytem-information-plugin",
+		"last_update": "2023-11-3"
+	},
+	{
+		"id": "database-backup-and-restore-plugin",
+		"name": "Extended Database Backup and Restore",
+		"description": "This Plugin is used to create database backup, restore, and download, but it is still in development, it has a lot of bugs and needs to be fixed, you can pull a request if errors or bugs, and it will be maintained from time to time",
+		"ispaid": false,
+		"author": "Focuslinkstech",
+		"url": "https://github.com/Focuslinkstech/phpnuxbill-database-backup-and-restore-plugin",
+		"github": "https://github.com/hotspotbilling/database-backup-and-restore-plugin",
+		"last_update": "2023-11-3"
+	},
+	{
+		"id": "phpnuxbill-radius-online-users",
+		"name": "Radius online user viewer",
+		"description": "To see whos online, and can disconect the user",
+		"ispaid": false,
+		"author": "Gerandonks",
+		"url": "https://github.com/gerandonk/phpnuxbill-radius-online-users",
+		"github": "https://github.com/hotspotbilling/phpnuxbill-radius-online-users",
+		"last_update": "2024-02-08"
+	},
+	{
+		"id": "Radius-NAS-Status",
+		"name": "Radius NAS Online Offline Status Checker",
+		"description": "Radius NAS Status Plugin to Check Status About NAS Online / Offline",
+		"ispaid": false,
+		"author": "pravhjp",
+		"url": "https://github.com/pravhjp/Radius-NAS-Status",
+		"github": "https://github.com/pravhjp/Radius-NAS-Status",
+		"last_update": "2024-08-09"
+	},
+	{
+		"id": "WhatsApp-Gateway-Plugin-for-PHPNuxBill",
+		"name": "Whatsapp Gateway",
+		"description": "Whatsapp Gateway Client Multiple Phone Number, random send.",
+		"ispaid": false,
+		"author": "ibnux",
+		"url": "https://github.com/hotspotbilling/WhatsApp-Gateway-Plugin-for-PHPNuxBill",
+		"github": "https://github.com/hotspotbilling/WhatsApp-Gateway-Plugin-for-PHPNuxBill",
+		"last_update": "2024-06-27"
+	},
+	{
+		"id": "IPDR-Plugin",
+		"name": "IPDR Plugin | Paid Plugin",
+		"description": "Internet Protocol Detail Record (IPDR) to log Customer activity, Works with Hotspot, PPPOE, and radius. To download this, you need to setup Github Authentication",
+		"ispaid": true,
+		"author": "ibnux",
+		"url": "https://t.me/ibnux",
+		"github": "https://github.com/hotspotbilling/IPDR-Plugin",
+		"last_update": "2024-07-2"
+	},
+	{
+		"id": "phpnuxbill-hotspot-system",
+		"name": "Hotspot System | Paid Plugin",
+		"description": "Phpnuxbill Hotspot System Plugin is a powerful and versatile tool for managing and automating hotspot networks. It is designed to be integrated with the Phpnuxbill billing and customer management platform, providing a comprehensive solution for small and medium-sized businesses that offer public internet access.",
+		"ispaid": true,
+		"author": "Focuslinkstech",
+		"url": "https://t.me/focuslinkstech",
+		"github": "https://github.com/Focuslinkstech/phpnuxbill-hotspot-system",
+		"last_update": "2024-08-6"
+	},
+	{
+		"id": "phpnuxbill-support-system",
+		"name": "Support Ticket System | Paid Plugin",
+		"description": "The Phpnuxbill Plugin Support Ticket is a powerful and versatile plugin designed to enhance customer support and streamline ticket management within your Phpnuxbill environment. This plugin provides a seamless and efficient way to handle customer inquiries, technical issues, and other support-related matters.",
+		"ispaid": true,
+		"author": "Focuslinkstech",
+		"url": "https://t.me/focuslinkstech",
+		"github": "https://github.com/Focuslinkstech/phpnuxbill-support-system",
+		"last_update": "2024-08-6"
+	},
+	{
+		"id": "phpnuxbill-users-data-usage-plugin",
+		"name": "User Data Usage Plugin",
+		"description": "The User Data Usage Plugin is a feature for the Phpnuxbill for both user and admin , any suggestions just send it on whatsapp +249912740956.",
+		"ispaid": false,
+		"author": "amolood",
+		"url": "https://amolood.com",
+		"github": "https://github.com/amolood/phpnuxbill-users-data-usage-plugin",
+		"last_update": "2024-08-9"
+	},
+	{
+		"id": "Twilio-Plugin",
+		"name": "Twilio-Plugin | Paid Plugin",
+		"description": "Using Twillio as Gateway to send SMS or Whatsapp",
+		"ispaid": true,
+		"author": "ibnux",
+		"url": "https://t.me/ibnux",
+		"github": "https://github.com/hotspotbilling/Twilio-Plugin",
+		"last_update": "2024-07-2"
+	}
 ]

@@ -209,17 +209,17 @@
 			"url": "https://t.me/focuslinkstech",
 			"github": "https://github.com/Focuslinkstech/phpnuxbill-suspension-page-plugin",
 			"last_update": "2024-08-14"
-		},{
-        "id": "phpnuxbill-users-data-usage-plugin",
-        "name": "User Data Usage Plugin",
-        "description": "The User Data Usage Plugin is a feature for the Phpnuxbill for both user and admin , any suggestions just send it on whatsapp +249912740956.",
-        "ispaid": false,
-        "author": "amolood",
-        "url": "https://amolood.com",
-        "github": "https://github.com/amolood/phpnuxbill-users-data-usage-plugin",
-        "last_update": "2024-08-9"
-    }
-
+		},
+		{
+			"id": "phpnuxbill-users-data-usage-plugin",
+			"name": "User Data Usage Plugin",
+			"description": "The User Data Usage Plugin is a feature for the Phpnuxbill for both user and admin , any suggestions just send it on whatsapp +249912740956.",
+			"ispaid": false,
+			"author": "amolood",
+			"url": "https://amolood.com",
+			"github": "https://github.com/amolood/phpnuxbill-users-data-usage-plugin",
+			"last_update": "2024-08-9"
+		}
 	],
 	"payment_gateway": [
 		{
@@ -332,15 +332,15 @@
 			"github": "https://github.com/hotspotbilling/Stripe-Payment-Gateway",
 			"last_update": "2024-8-1"
 		},
-        {
-            "id": "PHPNuxBill-Hitpayapp-Payment-Gateway",
-            "name": "Hitpay",
-            "description": "Hitpay helps over 15,000 businesses across Southeast Asia and around the globe process payments efficiently and securely. We unify online, point of sale, and B2B payments into a single, integrated payment processing system.",
-            "ispaid": true,
-            "author": "ibnux",
-            "url": "https://t.me/ibnux",
-            "github": "https://github.com/hotspotbilling/PHPNuxBill-Hitpayapp-Payment-Gateway",
-            "last_update": "2024-8-14"
+		{
+			"id": "PHPNuxBill-Hitpayapp-Payment-Gateway",
+			"name": "Hitpay",
+			"description": "Hitpay helps over 15,000 businesses across Southeast Asia and around the globe process payments efficiently and securely. We unify online, point of sale, and B2B payments into a single, integrated payment processing system.",
+			"ispaid": true,
+			"author": "ibnux",
+			"url": "https://t.me/ibnux",
+			"github": "https://github.com/hotspotbilling/PHPNuxBill-Hitpayapp-Payment-Gateway",
+			"last_update": "2024-8-14"
 		},
 		{
 			"id": "phpnuxbill-sslcommerz-payment-gateway",
@@ -361,9 +361,9 @@
 			"url": "https://t.me/focuslinkstech",
 			"github": "https://github.com/Focuslinkstech/phpnuxbill-payu-payment-gateway",
 			"last_update": "2024-8-14"
-        }
+		}
 	],
-    "devices" : [
+	"devices": [
 		{
 			"id": "Voucher-Device",
 			"name": "Voucher",
@@ -384,5 +384,5 @@
 			"github": "https://github.com/hotspotbilling/Chillispot-Device",
 			"last_update": "2024-8-13"
 		}
-    ]
+	]
 }
