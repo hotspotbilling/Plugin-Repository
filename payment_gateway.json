@@ -119,4 +119,14 @@
         "github": "https://github.com/hotspotbilling/PHPNuxBill-Hitpayapp-Payment-Gateway",
         "last_update": "2024-8-14"
     }
+    {
+		"id": "razorpay-payment-gateway",
+		"name": "razorpay.com | Paid Plugin",
+		"description": "Payment Gateway for India | Paid Plugin",
+		"ispaid": true,
+		"author": "pravhjp",
+		"url": "https://t.me/amoprawifi",
+		"github": "https://github.com/pravhjp/razorpay-payment-gateway",
+		"last_update": "2024-8-25"
+	}
 ]
