@@ -202,12 +202,22 @@
 		},
 		{
 			"id": "phpnuxbill-suspension-page-plugin",
-			"name": "Suspension and Payment Page | Paid Plugin",
+			"name": "Suspension and Payment Page",
 			"description": "Suspension Page with payment processing page, its designed to ease customer payment, with user verification, This plugin is free but you have purchased the payment gateway.",
 			"ispaid": false,
 			"author": "Focuslinkstech",
 			"url": "https://t.me/focuslinkstech",
 			"github": "https://github.com/Focuslinkstech/phpnuxbill-suspension-page-plugin",
+			"last_update": "2024-08-14"
+		},
+		{
+			"id": "mpesa-c2b-payment-plugin",
+			"name": "Mpesa C2B Offline Payment | Paid Plugin",
+			"description": "The Mpesa C2B Payment Offline Plugin enables businesses to accept payments via Paybill Number. It seamlessly integrates with PHPNuxBill, verifying and validating payments from Safaricom. The plugin efficiently manages customer payments, transaction processing, and balance updates, SMS and WhatsApp notifications, etc.",
+			"ispaid": true,
+			"author": "Focuslinkstech",
+			"url": "https://t.me/focuslinkstech",
+			"github": "https://github.com/Focuslinkstech/mpesa-c2b-payment-plugin",
 			"last_update": "2024-08-14"
 		},
 		{
