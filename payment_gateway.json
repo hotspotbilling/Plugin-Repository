@@ -105,7 +105,7 @@
         "description": "Payment Gateway Stripe.com, paid plugin, To download this, you need to setup Github Authentication",
         "ispaid": true,
         "author": "ibnux",
-        "url": "https://t.me/ibnux",
+        "url": "https://ibnux.github.io/pnb-plugin-shop/",
         "github": "https://github.com/hotspotbilling/Stripe-Payment-Gateway",
         "last_update": "2024-8-1"
     },
@@ -115,7 +115,7 @@
         "description": "Hitpay helps over 15,000 businesses across Southeast Asia and around the globe process payments efficiently and securely. We unify online, point of sale, and B2B payments into a single, integrated payment processing system.",
         "ispaid": true,
         "author": "ibnux",
-        "url": "https://t.me/ibnux",
+        "url": "https://ibnux.github.io/pnb-plugin-shop/",
         "github": "https://github.com/hotspotbilling/PHPNuxBill-Hitpayapp-Payment-Gateway",
         "last_update": "2024-8-14"
     },

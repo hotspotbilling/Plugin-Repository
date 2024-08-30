@@ -125,7 +125,7 @@
 		"description": "Internet Protocol Detail Record (IPDR) to log Customer activity, Works with Hotspot, PPPOE, and radius. To download this, you need to setup Github Authentication",
 		"ispaid": true,
 		"author": "ibnux",
-		"url": "https://t.me/ibnux",
+		"url": "https://ibnux.github.io/pnb-plugin-shop/",
 		"github": "https://github.com/hotspotbilling/IPDR-Plugin",
 		"last_update": "2024-07-2"
 	},
