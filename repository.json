@@ -136,7 +136,7 @@
 			"description": "Using Twillio as Gateway to send SMS or Whatsapp",
 			"ispaid": true,
 			"author": "ibnux",
-			"url": "https://t.me/ibnux",
+			"url": "https://ibnux.github.io/pnb-plugin-shop/",
 			"github": "https://github.com/hotspotbilling/Twilio-Plugin",
 			"last_update": "2024-07-2"
 		},
