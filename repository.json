@@ -221,6 +221,16 @@
 			"last_update": "2024-08-29"
 		},
 		{
+			"id": "africas-talking-sms-plugin-for-phpnuxbill",
+			"name": "Africas Talking SMS Plugin| Paid Plugin",
+			"description": "Africa's Talking SMS plugin for PHPNuxbill is a powerful tool that enables seamless integration of SMS capabilities into PHPNuxbill by leveraging the Africa's Talking platform. This plugin allows users to send SMS messages, facilitating efficient customer notifications, reminders, and updates.",
+			"ispaid": true,
+			"author": "Focuslinkstech",
+			"url": "https://t.me/focuslinkstech",
+			"github": "https://github.com/Focuslinkstech/africas-talking-sms-plugin-for-phpnuxbill",
+			"last_update": "2024-09-04"
+		},
+		{
 			"id": "phpnuxbill-users-data-usage-plugin",
 			"name": "User Data Usage Plugin",
 			"description": "The User Data Usage Plugin is a feature for the Phpnuxbill for both user and admin , any suggestions just send it on whatsapp +249912740956.",
@@ -371,6 +381,16 @@
 			"url": "https://t.me/focuslinkstech",
 			"github": "https://github.com/Focuslinkstech/phpnuxbill-payu-payment-gateway",
 			"last_update": "2024-8-14"
+		},
+		{
+			"id": "allupipay-payment-gateway-for-phpnuxbill",
+			"name": "Allupipay.in | Paid Plugin",
+			"description": "Allupipay.in Accept Payments Directly to your Bank Account At 0% Transaction Fee, paid plugin, To download this, you need to setup Github Authentication.",
+			"ispaid": true,
+			"author": "Focuslinkstech",
+			"url": "https://t.me/focuslinkstech",
+			"github": "https://github.com/Focuslinkstech/allupipay-payment-gateway-for-phpnuxbill",
+			"last_update": "2024-9-04"
 		}
 	],
 	"devices": [
