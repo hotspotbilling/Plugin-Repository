@@ -1,13 +1,13 @@
 {
 	"plugins": [
 		{
-			"id": "plugin-router-monitor",
+			"id": "phpnuxbill-router-monitor-plugin",
 			"name": "Mikrotik Monitoring",
 			"description": "This plugin is created to monitor Mikrotik Router from PHPNuxBill and its features include: Router System Information, Interface Monitoring, Online Hotspot Users, Online PPPoE Users. e.t.c ",
 			"ispaid": false,
 			"author": "Focuslinkstech",
 			"url": "https://github.com/Focuslinkstech/phpnuxbill-router-monitor-plugin",
-			"github": "https://github.com/hotspotbilling/plugin-router-monitor",
+			"github": "https://github.com/Focuslinkstech/phpnuxbill-router-monitor-plugin",
 			"last_update": "2023-11-12"
 		},
 		{
@@ -27,7 +27,7 @@
 			"ispaid": false,
 			"author": "Focuslinkstech",
 			"url": "https://github.com/Focuslinkstech/phpnuxbill-Internet-speedtest-plugin",
-			"github": "https://github.com/hotspotbilling/phpnuxbill-Internet-speedtest-plugin",
+			"github": "https://github.com/Focuslinkstech/phpnuxbill-Internet-speedtest-plugin",
 			"last_update": "2024-06-8"
 		},
 		{
@@ -51,43 +51,43 @@
 			"last_update": "2023-08-23"
 		},
 		{
-			"id": "Plugin-Radius-Client-Tester",
+			"id": "Radius-Client-Tester",
 			"name": "Radius Client Tester",
 			"description": "For testing Radius Server",
 			"ispaid": false,
 			"author": "Focuslinkstech",
 			"url": "https://github.com/Focuslinkstech/Radius-Client-Tester",
-			"github": "https://github.com/hotspotbilling/Plugin-Radius-Client-Tester",
+			"github": "https://github.com/Focuslinkstech/Radius-Client-Tester",
 			"last_update": "2023-10-17"
 		},
 		{
-			"id": "plugin-clear-cache",
+			"id": "phpnuxbill-clear-cache",
 			"name": "Clear Compiled Cache",
 			"description": "Clear compiled cache files",
 			"ispaid": false,
 			"author": "Focuslinkstech",
 			"url": "https://github.com/Focuslinkstech/phpnuxbill-clear-cache",
-			"github": "https://github.com/hotspotbilling/plugin-clear-cache",
+			"github": "https://github.com/Focuslinkstech/phpnuxbill-clear-cache",
 			"last_update": "2023-10-25"
 		},
 		{
-			"id": "sytem-information-plugin",
+			"id": "phpnuxbill-sytem-information-plugin",
 			"name": "System Information",
 			"description": "The plugin is used to monitor system or server performance, check running services",
 			"ispaid": false,
 			"author": "Focuslinkstech",
 			"url": "https://github.com/Focuslinkstech/phpnuxbill-sytem-information-plugin",
-			"github": "https://github.com/hotspotbilling/sytem-information-plugin",
+			"github": "https://github.com/Focuslinkstech/phpnuxbill-sytem-information-plugin",
 			"last_update": "2023-11-3"
 		},
 		{
-			"id": "database-backup-and-restore-plugin",
+			"id": "phpnuxbill-database-backup-and-restore-plugin",
 			"name": "Extended Database Backup and Restore",
 			"description": "This Plugin is used to create database backup, restore, and download, but it is still in development, it has a lot of bugs and needs to be fixed, you can pull a request if errors or bugs, and it will be maintained from time to time",
 			"ispaid": false,
 			"author": "Focuslinkstech",
 			"url": "https://github.com/Focuslinkstech/phpnuxbill-database-backup-and-restore-plugin",
-			"github": "https://github.com/hotspotbilling/database-backup-and-restore-plugin",
+			"github": "https://github.com/Focuslinkstech/phpnuxbill-database-backup-and-restore-plugin",
 			"last_update": "2023-11-3"
 		},
 		{
@@ -97,7 +97,7 @@
 			"ispaid": false,
 			"author": "Gerandonks",
 			"url": "https://github.com/gerandonk/phpnuxbill-radius-online-users",
-			"github": "https://github.com/hotspotbilling/phpnuxbill-radius-online-users",
+			"github": "https://github.com/gerandonk/phpnuxbill-radius-online-users",
 			"last_update": "2024-02-08"
 		},
 		{
@@ -319,7 +319,7 @@
 			"ispaid": false,
 			"author": "Focuslinkstech",
 			"url": "https://github.com/Focuslinkstech/phpnuxbill-flutterwave-payment-gateway",
-			"github": "https://github.com/hotspotbilling/phpnuxbill-flutterwave-payment-gateway",
+			"github": "https://github.com/Focuslinkstech/phpnuxbill-flutterwave-payment-gateway",
 			"last_update": "2023-7-28"
 		},
 		{
@@ -329,7 +329,7 @@
 			"ispaid": false,
 			"author": "Focuslinkstech",
 			"url": "https://github.com/Focuslinkstech/phpnuxbill-paystack-payment-gateway",
-			"github": "https://github.com/hotspotbilling/phpnuxbill-paystack-payment-gateway",
+			"github": "https://github.com/Focuslinkstech/phpnuxbill-paystack-payment-gateway",
 			"last_update": "2023-7-28"
 		},
 		{
@@ -339,7 +339,7 @@
 			"ispaid": false,
 			"author": "Abdalrahman Molood",
 			"url": "https://github.com/amolood/phpnuxbill-thawani-payment-gateway",
-			"github": "https://github.com/hotspotbilling/phpnuxbill-thawani-payment-gateway",
+			"github": "https://github.com/amolood/phpnuxbill-thawani-payment-gateway",
 			"last_update": "2024-8-8"
 		},
 		{
