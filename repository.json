@@ -231,6 +231,16 @@
 			"last_update": "2024-09-04"
 		},
 		{
+			"id": "phpnuxbill-recharge-cards-plugin",
+			"name": "Recharge Cards Plugin",
+			"description": "Sell recharge cards to you cstomers with peace of mind and security.",
+			"ispaid": false,
+			"author": "Focuslinkstech",
+			"url": "https://t.me/focuslinkstech",
+			"github": "https://github.com/Focuslinkstech/phpnuxbill-recharge-cards-plugin",
+			"last_update": "2024-10-20"
+		},
+		{
 			"id": "phpnuxbill-users-data-usage-plugin",
 			"name": "User Data Usage Plugin",
 			"description": "The User Data Usage Plugin is a feature for the Phpnuxbill for both user and admin , any suggestions just send it on whatsapp +249912740956.",
