@@ -20,7 +20,7 @@
         "last_update": "2024-8-13"
     },
 	{
-        "id": "Mikrotik-Static-Device",
+        "id": "Mikrotik-StaticIP",
         "name": "Mikrotik-Static",
         "description": "Can Add Static user under PPPoE Plan and use PPPoE IP",
         "ispaid": false,
