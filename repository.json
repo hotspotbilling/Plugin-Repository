@@ -241,6 +241,16 @@
 			"last_update": "2024-10-20"
 		},
 		{
+			"id": "phpnuxbill-pm-wani-pdoa-registry",
+			"name": "PM-WANI PDOA Registry For Radius-MYSQL",
+			"description": "The PM-WANI PDOA Registry pmwani.gov.in/wani is a web-based application designed to facilitate the registration and management of Public Data Office Aggregators (PDOAs) within the PM-WANI (Public Wi-Fi Access Network Interface) framework. This platform allows service providers to efficiently register their PDOAs, manage user data, and streamline the process of providing public Wi-Fi access. By leveraging PDOAs, the registry enhances connectivity and accessibility, ensuring a seamless user experience in public spaces.",
+			"ispaid": true,
+			"author": "Focuslinkstech",
+			"url": "https://t.me/focuslinkstech",
+			"github": "https://github.com/Focuslinkstech/phpnuxbill-pm-wani-pdoa-registry",
+			"last_update": "2024-10-28"
+		},
+		{
 			"id": "phpnuxbill-users-data-usage-plugin",
 			"name": "User Data Usage Plugin",
 			"description": "The User Data Usage Plugin is a feature for the Phpnuxbill for both user and admin , any suggestions just send it on whatsapp +249912740956.",
@@ -401,6 +411,16 @@
 			"url": "https://t.me/focuslinkstech",
 			"github": "https://github.com/Focuslinkstech/allupipay-payment-gateway-for-phpnuxbill",
 			"last_update": "2024-9-04"
+		},
+		{
+			"id": "razorpay-payment-gateway-for-phpnuxbill",
+			"name": "Razorpay Payment Gateway | Paid Plugin",
+			"description": "The Razorpay Payment Plugin for PHP Nuxbill seamlessly integrates Razorpay's payment gateway into your Nuxbill application. This plugin enables businesses to accept online payments through various methods, including credit/debit cards, net banking, UPI, and digital wallets. With a user-friendly interface, secure transactions, and real-time payment notifications, the plugin simplifies payment processing for both merchants and customers. Enhance your billing system with this robust solution, ensuring a smooth and efficient payment experience.",
+			"ispaid": true,
+			"author": "Focuslinkstech",
+			"url": "https://shop.focuslinkstech.com.ng/item/razorpay-payment-gateway-for-phpnuxbill",
+			"github": "https://github.com/Focuslinkstech/",
+			"last_update": "2024-10-28"
 		}
 	],
 	"devices": [
