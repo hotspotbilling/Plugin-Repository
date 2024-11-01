@@ -259,6 +259,16 @@
 			"url": "https://amolood.com",
 			"github": "https://github.com/amolood/phpnuxbill-users-data-usage-plugin",
 			"last_update": "2024-08-9"
+		},
+		{
+			"id": "custom_reminder_plugin",
+			"name": "Custom Reminder",
+			"description": "You can customize when reminder sent, 15 minutes before? 2 hours before? yes you can set it",
+			"ispaid": true,
+			"author": "ibnux",
+			"url": "https://t.me/ibnux",
+			"github": "https://github.com/hotspotbilling/custom_reminder_plugin",
+			"last_update": "2024-11-1"
 		}
 	],
 	"payment_gateway": [
