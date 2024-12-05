@@ -269,6 +269,16 @@
 			"url": "https://t.me/ibnux",
 			"github": "https://github.com/hotspotbilling/custom_reminder_plugin",
 			"last_update": "2024-11-1"
+		},
+		{
+			"id": "plugin-free-internet",
+			"name": "Free Internet",
+			"description": "After customer register or login, it will activate free internet plan. customer can choose between free Internet or buy paid internet plan",
+			"ispaid": true,
+			"author": "ibnux",
+			"url": "https://t.me/ibnux",
+			"github": "https://github.com/hotspotbilling/plugin-free-internet",
+			"last_update": "2024-11-1"
 		}
 	],
 	"payment_gateway": [
