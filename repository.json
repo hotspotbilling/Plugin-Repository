@@ -279,6 +279,16 @@
 			"url": "https://t.me/ibnux",
 			"github": "https://github.com/hotspotbilling/plugin-free-internet",
 			"last_update": "2024-11-1"
+		},
+		{
+			"id": "plugin-go-snmp-olt-zte-c320",
+			"name": "Go snmp OLT ZTE C320",
+			"description": "Interface for Go snmp OLT ZTE C320",
+			"ispaid": false,
+			"author": "ibnux",
+			"url": "https://github.com/hotspotbilling/go-snmp-olt-zte-c320",
+			"github": "https://github.com/hotspotbilling/plugin-go-snmp-olt-zte-c320",
+			"last_update": "2024-11-1"
 		}
 	],
 	"payment_gateway": [
