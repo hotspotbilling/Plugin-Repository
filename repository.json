@@ -289,6 +289,16 @@
 			"url": "https://github.com/hotspotbilling/go-snmp-olt-zte-c320",
 			"github": "https://github.com/hotspotbilling/plugin-go-snmp-olt-zte-c320",
 			"last_update": "2024-11-1"
+		},
+		{
+			"id": "Verimor-SMS-Gateway",
+			"name": "Verimor SMS Gateway",
+			"description": "Türkiye’nin lider operatörleriyle doğrudan bağlantılar, ISO sertifikalı güvenli altyapı ve inovasyon odaklı AR-GE gücümüzle, iş ihtiyaçlarınıza özel, ölçeklenebilir çözümler sunuyoruz.",
+			"ispaid": false,
+			"author": "ibnux",
+			"url": "https://github.com/hotspotbilling/Verimor-SMS-Gateway",
+			"github": "https://github.com/hotspotbilling/Verimor-SMS-Gateway",
+			"last_update": "2025-07-29"
 		}
 	],
 	"payment_gateway": [
