@@ -88,7 +88,17 @@
 			"author": "Focuslinkstech",
 			"url": "https://github.com/Focuslinkstech/phpnuxbill-database-backup-and-restore-plugin",
 			"github": "https://github.com/Focuslinkstech/phpnuxbill-database-backup-and-restore-plugin",
-			"last_update": "2023-11-3"
+			"last_update": "2025-08-30"
+		},
+		{
+			"id": "PHPNuxBill-Assets-Manager",
+			"name": "PHPNuxBill Assets Manager",
+			"description": "The Asset Manager is a comprehensive plugin for PHPNuxBill that provides organizations with powerful tools to track, manage, and report on their physical and digital assets. This module seamlessly integrates with the PHPNuxBill platform, offering a complete asset lifecycle management solution.",
+			"ispaid": false,
+			"author": "Focuslinkstech",
+			"url": "https://github.com/Focuslinks-Tech/PHPNuxBill-Assets-Manager",
+			"github": "https://github.com/Focuslinks-Tech/PHPNuxBill-Assets-Manager",
+			"last_update": "2025-11-17"
 		},
 		{
 			"id": "phpnuxbill-radius-online-users",
