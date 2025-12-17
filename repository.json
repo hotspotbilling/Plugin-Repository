@@ -1,6 +1,16 @@
 {
 	"plugins": [
 		{
+			"id": "phpnuxbill-quickadd-customer",
+			"name": "Add Customer + recharge",
+			"description": "Menambahkan customer sekaligus isi paketnya",
+			"ispaid": false,
+			"author": "agstrxyz",
+			"url": "https://github.com/agstrxyz/phpnuxbill-quickadd-customer",
+			"github": "https://github.com/agstrxyz/phpnuxbill-quickadd-customer",
+			"last_update": "2025-04-29"
+		},
+		{
 			"id": "phpnuxbill-router-monitor-plugin",
 			"name": "Mikrotik Monitoring",
 			"description": "This plugin is created to monitor Mikrotik Router from PHPNuxBill and its features include: Router System Information, Interface Monitoring, Online Hotspot Users, Online PPPoE Users. e.t.c ",
@@ -259,6 +269,46 @@
 			"url": "https://amolood.com",
 			"github": "https://github.com/amolood/phpnuxbill-users-data-usage-plugin",
 			"last_update": "2024-08-9"
+		},
+		{
+			"id": "custom_reminder_plugin",
+			"name": "Custom Reminder",
+			"description": "You can customize when reminder sent, 15 minutes before? 2 hours before? yes you can set it",
+			"ispaid": true,
+			"author": "ibnux",
+			"url": "https://t.me/ibnux",
+			"github": "https://github.com/hotspotbilling/custom_reminder_plugin",
+			"last_update": "2024-11-1"
+		},
+		{
+			"id": "plugin-free-internet",
+			"name": "Free Internet",
+			"description": "After customer register or login, it will activate free internet plan. customer can choose between free Internet or buy paid internet plan",
+			"ispaid": true,
+			"author": "ibnux",
+			"url": "https://t.me/ibnux",
+			"github": "https://github.com/hotspotbilling/plugin-free-internet",
+			"last_update": "2024-11-1"
+		},
+		{
+			"id": "plugin-go-snmp-olt-zte-c320",
+			"name": "Go snmp OLT ZTE C320",
+			"description": "Interface for Go snmp OLT ZTE C320",
+			"ispaid": false,
+			"author": "ibnux",
+			"url": "https://github.com/hotspotbilling/go-snmp-olt-zte-c320",
+			"github": "https://github.com/hotspotbilling/plugin-go-snmp-olt-zte-c320",
+			"last_update": "2024-11-1"
+		},
+		{
+			"id": "Verimor-SMS-Gateway",
+			"name": "Verimor SMS Gateway",
+			"description": "Türkiye’nin lider operatörleriyle doğrudan bağlantılar, ISO sertifikalı güvenli altyapı ve inovasyon odaklı AR-GE gücümüzle, iş ihtiyaçlarınıza özel, ölçeklenebilir çözümler sunuyoruz.",
+			"ispaid": false,
+			"author": "ibnux",
+			"url": "https://github.com/hotspotbilling/Verimor-SMS-Gateway",
+			"github": "https://github.com/hotspotbilling/Verimor-SMS-Gateway",
+			"last_update": "2025-07-29"
 		}
 	],
 	"payment_gateway": [
