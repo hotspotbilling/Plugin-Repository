@@ -178,5 +178,15 @@
         "url": "https://github.com/hotspotbilling/go-snmp-olt-zte-c320",
         "github": "https://github.com/hotspotbilling/plugin-go-snmp-olt-zte-c320",
         "last_update": "2024-11-1"
+    },
+    {
+        "id": "GenieACS-Manager",
+        "name": "GenieACS Manager | Paid Plugin",
+        "description": "TR-069 Device Management Plugin - Multi-server GenieACS, WiFi management, device monitoring, auto sync.",
+        "ispaid": true,
+        "author": "ExO",
+        "url": "https://t.me/Exoforb",
+        "github": "https://github.com/exoforb/GenieACS-Manager",
+        "last_update": "2026-01-21"
     }
 ]
