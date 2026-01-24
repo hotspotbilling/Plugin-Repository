@@ -1,6 +1,16 @@
 {
 	"plugins": [
 		{
+			"id": "Mapping-FFTH",
+			"name": "Mapping-FFTH | Paid Plugin",
+			"description": "FTTH mapping plugin for PHPNuxBill with OLT–ODC–ODP–ONT visualization and fiber routing.",
+			"ispaid": true,
+			"author": "ExO",
+			"url": "https://t.me/Exoforb",
+			"github": "https://github.com/ExodiaForb-Plugin/Mapping-FFTH",
+			"last_update": "2026-01-25"
+		},
+		{
 			"id": "GenieACS-Manager",
 			"name": "GenieACS Manager | Paid Plugin",
 			"description": "TR-069 Device Management Plugin - Multi-server GenieACS, WiFi management, device monitoring, auto sync.",
