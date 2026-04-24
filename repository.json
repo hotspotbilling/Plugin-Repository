@@ -1,6 +1,16 @@
 {
 	"plugins": [
 		{
+			"id": "QuickHotspot",
+    		"name": "QuickHotspot | Paid Plugin",
+		    "description": "MikroTik-direct hotspot voucher plugin for PHPNuxBill. Generate & sell vouchers instantly — no registration required. Features batch generation, self-service purchasing (Tripay/Duitku), print/PNG export, reseller commission system, and custom login page.",
+		    "ispaid": true,
+		    "author": "ExO",
+		    "url": "https://t.me/Exoforb",
+		    "github": "https://github.com/ExodiaForb-Plugin/QuickHotspot",
+		    "last_update": "2026-04-22"
+		},
+		{
 			"id": "MIKROMON",
 			"name": "MIKROMON | Paid Plugin",
 			"description": "MikroTik monitoring plugin for PHPNuxBill with real-time PPPoE traffic, bandwidth, CPU, memory, uptime, usage history, remote access & port forwarding.",
