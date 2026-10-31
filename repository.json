@@ -1,6 +1,16 @@
 {
 	"plugins": [
 		{
+			"id": "phpnuxbill-plugin",
+			"name": "Mikrodius | Cloud RADIUS",
+			"description": "FreeRADIUS Cloud Alternative: Mikrodius runs the RADIUS server and the router tunnels for you. Pay as you go, no user limits, no NAS limit. New accounts get Rp1.000.000 free credit for 30 days.",
+			"ispaid": false,
+			"author": "Mikrodius",
+			"url": "https://console.mikrodius.com/developer?new=key&name=PHPNuxBill&ref=phpnuxbill",
+			"github": "https://github.com/mikrodius/phpnuxbill-plugin",
+			"last_update": "2026-10-28"
+		},
+		{
 			"id": "QuickHotspot",
     		"name": "QuickHotspot | Paid Plugin",
 		    "description": "MikroTik-direct hotspot voucher plugin for PHPNuxBill. Generate & sell vouchers instantly — no registration required. Features batch generation, self-service purchasing (Tripay/Duitku), print/PNG export, reseller commission system, and custom login page.",
