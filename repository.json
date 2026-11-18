@@ -1,578 +1,588 @@
 {
-	"plugins": [
-		{
-			"id": "QuickHotspot",
-    		"name": "QuickHotspot | Paid Plugin",
-		    "description": "MikroTik-direct hotspot voucher plugin for PHPNuxBill. Generate & sell vouchers instantly — no registration required. Features batch generation, self-service purchasing (Tripay/Duitku), print/PNG export, reseller commission system, and custom login page.",
-		    "ispaid": true,
-		    "author": "ExO",
-		    "url": "https://t.me/Exoforb",
-		    "github": "https://github.com/ExodiaForb-Plugin/QuickHotspot",
-		    "last_update": "2026-04-22"
-		},
-		{
-			"id": "MIKROMON",
-			"name": "MIKROMON | Paid Plugin",
-			"description": "MikroTik monitoring plugin for PHPNuxBill with real-time PPPoE traffic, bandwidth, CPU, memory, uptime, usage history, remote access & port forwarding.",
-			"ispaid": true,
-			"author": "ExO",
-			"url": "https://t.me/Exoforb",
-			"github": "https://github.com/ExodiaForb-Plugin/Mikromon",
-			"last_update": "2026-03-21"
-		},
-		{
-			"id": "Alternative-WhatsApp-Gateway-Plugin-for-PHPNuxBill",
-			"name": "Alternative WhatsApp Gateway Plugin",
-			"description": "This plugin is created to provide an alternative WhatsApp gateway for PHPNuxBill. It allows users to send and receive messages via WhatsApp using a custom gateway.",
-			"ispaid": false,
-			"author": "Focuslinkstech",
-			"url": "https://github.com/Focuslinks-Tech/Alternative-WhatsApp-Gateway-Plugin-for-PHPNuxBill",
-			"github": "https://github.com/Focuslinks-Tech/Alternative-WhatsApp-Gateway-Plugin-for-PHPNuxBill",
-			"last_update": "2026-01-28"
-		},
-		{
-			"id": "Mapping-FFTH",
-			"name": "Mapping-FFTH | Paid Plugin",
-			"description": "FTTH mapping plugin for PHPNuxBill with OLT–ODC–ODP–ONT visualization and fiber routing.",
-			"ispaid": true,
-			"author": "ExO",
-			"url": "https://t.me/Exoforb",
-			"github": "https://github.com/ExodiaForb-Plugin/Mapping-FFTH",
-			"last_update": "2026-01-25"
-		},
-		{
-			"id": "GenieACS-Manager",
-			"name": "GenieACS Manager | Paid Plugin",
-			"description": "TR-069 Device Management Plugin - Multi-server GenieACS, WiFi management, device monitoring, auto sync.",
-			"ispaid": true,
-			"author": "ExO",
-			"url": "https://t.me/Exoforb",
-			"github": "https://github.com/ExodiaForb-Plugin/GenieACS-Manager",
-			"last_update": "2026-01-21"
-		},
-		{
-			"id": "phpnuxbill-quickadd-customer",
-			"name": "Add Customer + recharge",
-			"description": "Menambahkan customer sekaligus isi paketnya",
-			"ispaid": false,
-			"author": "agstrxyz",
-			"url": "https://github.com/agstrxyz/phpnuxbill-quickadd-customer",
-			"github": "https://github.com/agstrxyz/phpnuxbill-quickadd-customer",
-			"last_update": "2025-04-29"
-		},
-		{
-			"id": "phpnuxbill-router-monitor-plugin",
-			"name": "Mikrotik Monitoring",
-			"description": "This plugin is created to monitor Mikrotik Router from PHPNuxBill and its features include: Router System Information, Interface Monitoring, Online Hotspot Users, Online PPPoE Users. e.t.c ",
-			"ispaid": false,
-			"author": "Focuslinkstech",
-			"url": "https://github.com/Focuslinkstech/phpnuxbill-router-monitor-plugin",
-			"github": "https://github.com/Focuslinkstech/phpnuxbill-router-monitor-plugin",
-			"last_update": "2023-11-12"
-		},
-		{
-			"id": "phpnuxbill-plugin-mikrotik-import",
-			"name": "Mikrotik Import",
-			"description": "Import existing Mikrotik Hotspot Package and User to PHPNuxBill. This script will import Users and Profiles, but will not add active packages to user.",
-			"ispaid": false,
-			"author": "ibnux",
-			"url": "https://github.com/hotspotbilling/phpnuxbill-plugin-mikrotik-import",
-			"github": "https://github.com/hotspotbilling/phpnuxbill-plugin-mikrotik-import",
-			"last_update": "2022-12-14"
-		},
-		{
-			"id": "phpnuxbill-Internet-speedtest-plugin",
-			"name": "Internet Speed Test",
-			"description": "Speedtest plugin is designed to provide users with an easy and efficient way to measure their internet connection speed directly through the PHPNuxBill interface.",
-			"ispaid": false,
-			"author": "Focuslinkstech",
-			"url": "https://github.com/Focuslinkstech/phpnuxbill-Internet-speedtest-plugin",
-			"github": "https://github.com/Focuslinkstech/phpnuxbill-Internet-speedtest-plugin",
-			"last_update": "2024-06-8"
-		},
-		{
-			"id": "Plugin-Tripay-View-Payment",
-			"name": "Tripay View Payment",
-			"description": "Dengan Plugin ini, Pembeli tidak akan diarahkan ke Web Tripay, instruksi pembayaran akan langsung ditampilkan.",
-			"ispaid": false,
-			"author": "ibnux",
-			"url": "https://github.com/hotspotbilling/Plugin-Tripay-View-Payment",
-			"github": "https://github.com/hotspotbilling/Plugin-Tripay-View-Payment",
-			"last_update": "2023-09-27"
-		},
-		{
-			"id": "plugin-test-port",
-			"name": "Port Tester",
-			"description": "Check if your server block some port.",
-			"ispaid": false,
-			"author": "ibnux",
-			"url": "https://github.com/hotspotbilling/plugin-test-port",
-			"github": "https://github.com/hotspotbilling/plugin-test-port",
-			"last_update": "2023-08-23"
-		},
-		{
-			"id": "Radius-Client-Tester",
-			"name": "Radius Client Tester",
-			"description": "For testing Radius Server",
-			"ispaid": false,
-			"author": "Focuslinkstech",
-			"url": "https://github.com/Focuslinkstech/Radius-Client-Tester",
-			"github": "https://github.com/Focuslinkstech/Radius-Client-Tester",
-			"last_update": "2023-10-17"
-		},
-		{
-			"id": "phpnuxbill-clear-cache",
-			"name": "Clear Compiled Cache",
-			"description": "Clear compiled cache files",
-			"ispaid": false,
-			"author": "Focuslinkstech",
-			"url": "https://github.com/Focuslinkstech/phpnuxbill-clear-cache",
-			"github": "https://github.com/Focuslinkstech/phpnuxbill-clear-cache",
-			"last_update": "2023-10-25"
-		},
-		{
-			"id": "phpnuxbill-sytem-information-plugin",
-			"name": "System Information",
-			"description": "The plugin is used to monitor system or server performance, check running services",
-			"ispaid": false,
-			"author": "Focuslinkstech",
-			"url": "https://github.com/Focuslinkstech/phpnuxbill-sytem-information-plugin",
-			"github": "https://github.com/Focuslinkstech/phpnuxbill-sytem-information-plugin",
-			"last_update": "2023-11-3"
-		},
-		{
-			"id": "phpnuxbill-database-backup-and-restore-plugin",
-			"name": "Extended Database Backup and Restore",
-			"description": "This Plugin is used to create database backup, restore, and download, but it is still in development, it has a lot of bugs and needs to be fixed, you can pull a request if errors or bugs, and it will be maintained from time to time",
-			"ispaid": false,
-			"author": "Focuslinkstech",
-			"url": "https://github.com/Focuslinkstech/phpnuxbill-database-backup-and-restore-plugin",
-			"github": "https://github.com/Focuslinkstech/phpnuxbill-database-backup-and-restore-plugin",
-			"last_update": "2025-08-30"
-		},
-		{
-			"id": "PHPNuxBill-Assets-Manager",
-			"name": "PHPNuxBill Assets Manager",
-			"description": "The Asset Manager is a comprehensive plugin for PHPNuxBill that provides organizations with powerful tools to track, manage, and report on their physical and digital assets. This module seamlessly integrates with the PHPNuxBill platform, offering a complete asset lifecycle management solution.",
-			"ispaid": false,
-			"author": "Focuslinkstech",
-			"url": "https://github.com/Focuslinks-Tech/PHPNuxBill-Assets-Manager",
-			"github": "https://github.com/Focuslinks-Tech/PHPNuxBill-Assets-Manager",
-			"last_update": "2025-11-17"
-		},
-		{
-			"id": "phpnuxbill-radius-rest-online-users-viewer",
-			"name": "Radius Rest Online Users Viewer",
-			"description": "This plugin is designed for seamless integration with Radius rest servers, allowing administrator to monitor online clients effectively. This powerful tool provides real-time visibility into active user sessions and their current data usage, enabling administrators to manage network resources efficiently.",
-			"ispaid": false,
-			"author": "Focuslinkstech",
-			"url": "https://github.com/Focuslinks-Tech/phpnuxbill-radius-rest-online-users-viewer",
-			"github": "https://github.com/Focuslinks-Tech/phpnuxbill-radius-rest-online-users-viewer",
-			"last_update": "2025-12-17"
-		},
-		{
-			"id": "phpnuxbill-radius-online-users",
-			"name": "Radius online user viewer",
-			"description": "To see whos online, and can disconect the user",
-			"ispaid": false,
-			"author": "Gerandonks",
-			"url": "https://github.com/gerandonk/phpnuxbill-radius-online-users",
-			"github": "https://github.com/gerandonk/phpnuxbill-radius-online-users",
-			"last_update": "2024-02-08"
-		},
-		{
-			"id": "Radius-NAS-Status",
-			"name": "Radius NAS Online Offline Status Checker",
-			"description": "Radius NAS Status Plugin to Check Status About NAS Online / Offline",
-			"ispaid": false,
-			"author": "pravhjp",
-			"url": "https://github.com/pravhjp/Radius-NAS-Status",
-			"github": "https://github.com/pravhjp/Radius-NAS-Status",
-			"last_update": "2024-08-09"
-		},
-		{
-			"id": "WhatsApp-Gateway-Plugin-for-PHPNuxBill",
-			"name": "Whatsapp Gateway",
-			"description": "Whatsapp Gateway Client Multiple Phone Number, random send.",
-			"ispaid": false,
-			"author": "ibnux",
-			"url": "https://github.com/hotspotbilling/WhatsApp-Gateway-Plugin-for-PHPNuxBill",
-			"github": "https://github.com/hotspotbilling/WhatsApp-Gateway-Plugin-for-PHPNuxBill",
-			"last_update": "2024-06-27"
-		},
-		{
-			"id": "IPDR-Plugin",
-			"name": "IPDR Plugin | Paid Plugin",
-			"description": "Internet Protocol Detail Record (IPDR) to log Customer activity, Works with Hotspot, PPPOE, and radius. To download this, you need to setup Github Authentication",
-			"ispaid": true,
-			"author": "ibnux",
-			"url": "https://ibnux.github.io/pnb-plugin-shop/",
-			"github": "https://github.com/hotspotbilling/IPDR-Plugin",
-			"last_update": "2024-07-2"
-		},
-		{
-			"id": "Twilio-Plugin",
-			"name": "Twilio-Plugin | Paid Plugin",
-			"description": "Using Twillio as Gateway to send SMS or Whatsapp",
-			"ispaid": true,
-			"author": "ibnux",
-			"url": "https://ibnux.github.io/pnb-plugin-shop/",
-			"github": "https://github.com/hotspotbilling/Twilio-Plugin",
-			"last_update": "2024-07-2"
-		},
-		{
-			"id": "phpnuxbill-hotspot-system",
-			"name": "Advanced Hotspot System | Paid Plugin",
-			"description": "Phpnuxbill Hotspot System Plugin is a powerful and versatile tool for managing and automating hotspot networks. It is designed to be integrated with the Phpnuxbill billing and customer management platform, providing a comprehensive solution for small and medium-sized businesses that offer public internet access.",
-			"ispaid": true,
-			"author": "Focuslinkstech",
-			"url": "https://t.me/focuslinkstech",
-			"github": "https://github.com/Focuslinkstech/phpnuxbill-hotspot-system",
-			"last_update": "2024-08-28"
-		},
-		{
-			"id": "phpnuxbill-support-system",
-			"name": "Support Ticket System | Paid Plugin",
-			"description": "The Phpnuxbill Plugin Support Ticket is a powerful and versatile plugin designed to enhance customer support and streamline ticket management within your Phpnuxbill environment. This plugin provides a seamless and efficient way to handle customer inquiries, technical issues, and other support-related matters.",
-			"ispaid": true,
-			"author": "Focuslinkstech",
-			"url": "https://t.me/focuslinkstech",
-			"github": "https://github.com/Focuslinkstech/phpnuxbill-support-system",
-			"last_update": "2024-08-29"
-		},
-		{
-			"id": "mpesa-stkpush-hotspot-system-payment-gatetway",
-			"name": "MPesa STKPush Hotspot System Gateway | Paid Plugin",
-			"description": "The MPesa STKPush Hotspot System Payment Gateway allows users to seamlessly pay for internet access using MPesa. It integrates directly with the hotspot system for phpnuxbill, prompting users to authorize payments via their mobile device, ensuring a secure and efficient transaction process. This gateway simplifies the payment experience, making it easier for customers to purchase internet access on the go. works with hotspot system only.",
-			"ispaid": true,
-			"author": "Focuslinkstech",
-			"url": "https://shop.focuslinkstech.com.ng/item/hotspot-system-mpesa-payment-gateway",
-			"github": "https://github.com/Focuslinkstech/mpesa-stkpush-hotspot-system-payment-gatetway",
-			"last_update": "2024-08-14"
-		},
-		{
-			"id": "paystack-hotspot-system-payment-gatetway",
-			"name": "Paystack Hotspot System Gateway | Paid Plugin",
-			"description": "The Paystack Hotspot System Payment Gateway is a secure and efficient solution that enables users to pay for Wi-Fi hotspot access using Paystack's reliable payment processing platform. It integrates seamlessly with the hotspot system for phpnuxbill, offering a smooth payment experience with various payment methods, ensuring fast and hassle-free transactions for users accessing internet services, works with hotspot system only.",
-			"ispaid": true,
-			"author": "Focuslinkstech",
-			"url": "https://shop.focuslinkstech.com.ng/item/paystack-payment-gateway-for-hotspot-system-plugin",
-			"github": "https://github.com/Focuslinkstech/paystack-hotspot-system-payment-gatetway",
-			"last_update": "2024-08-14"
-		},
-		{
-			"id": "phpnuxbill-freeradius-mysql-data-usage-plugin",
-			"name": "Advanced Radius-MySQL Data Usage | Paid Plugin",
-			"description": "Advanced Data Usage Plugin for Radius-MySQL, its designed to monitor user daily weekly and monthtly data consumption, To download this, you need to setup Github Authentication.",
-			"ispaid": true,
-			"author": "Focuslinkstech",
-			"url": "https://t.me/focuslinkstech",
-			"github": "https://github.com/Focuslinkstech/phpnuxbill-freeradius-mysql-data-usage-plugin",
-			"last_update": "2024-08-14"
-		},
-		{
-			"id": "phpnuxbill-mikrotik-data-usage-pppoe-plugin",
-			"name": "Advanced Mikrotik PPPoE Data Usage | Paid Plugin",
-			"description": "Advanced Mikrotik PPPoE Data Usage, it uses Mikrotik API, you admin can check user periodic data usages, like monthtly, weeklyand daily usages and live traffic it works only if the user is onine, To use this, you need to buy from the store.",
-			"ispaid": true,
-			"author": "Focuslinkstech",
-			"url": "https://shop.focuslinkstech.com.ng/item/advanced-mikrotik-api-data-usage",
-			"github": "https://github.com/Focuslinkstech/phpnuxbill-mikrotik-data-usage-pppoe-plugin",
-			"last_update": "2025-004-11"
-		},
-		{
-			"id": "phpnuxbill-suspension-page-plugin",
-			"name": "Suspension and Payment Page",
-			"description": "Suspension Page with payment processing page, its designed to ease customer payment, with user verification, This plugin is free but you have purchased the payment gateway.",
-			"ispaid": false,
-			"author": "Focuslinkstech",
-			"url": "https://t.me/focuslinkstech",
-			"github": "https://github.com/Focuslinkstech/phpnuxbill-suspension-page-plugin",
-			"last_update": "2024-08-14"
-		},
-		{
-			"id": "mpesa-c2b-payment-plugin",
-			"name": "Mpesa C2B Offline Payment | Paid Plugin",
-			"description": "The Mpesa C2B Payment Offline Plugin enables businesses to accept payments via Paybill Number. It seamlessly integrates with PHPNuxBill, verifying and validating payments from Safaricom. The plugin efficiently manages customer payments, transaction processing, and balance updates, SMS and WhatsApp notifications, etc.",
-			"ispaid": true,
-			"author": "Focuslinkstech",
-			"url": "https://shop.focuslinkstech.com.ng/item/safaricomm-mpesa-c2b-offline-payment",
-			"github": "https://github.com/Focuslinkstech/mpesa-c2b-payment-plugin",
-			"last_update": "2024-08-29"
-		},
-		{
-			"id": "africas-talking-sms-plugin-for-phpnuxbill",
-			"name": "Africas Talking SMS Plugin| Paid Plugin",
-			"description": "Africa's Talking SMS plugin for PHPNuxbill is a powerful tool that enables seamless integration of SMS capabilities into PHPNuxbill by leveraging the Africa's Talking platform. This plugin allows users to send SMS messages, facilitating efficient customer notifications, reminders, and updates.",
-			"ispaid": true,
-			"author": "Focuslinkstech",
-			"url": "https://t.me/focuslinkstech",
-			"github": "https://github.com/Focuslinkstech/africas-talking-sms-plugin-for-phpnuxbill",
-			"last_update": "2024-09-04"
-		},
-		{
-			"id": "phpnuxbill-recharge-cards-plugin",
-			"name": "Recharge Cards Plugin",
-			"description": "Sell recharge cards to you cstomers with peace of mind and security.",
-			"ispaid": false,
-			"author": "Focuslinkstech",
-			"url": "https://t.me/focuslinkstech",
-			"github": "https://github.com/Focuslinkstech/phpnuxbill-recharge-cards-plugin",
-			"last_update": "2024-10-20"
-		},
-		{
-			"id": "phpnuxbill-pm-wani-pdoa-registry",
-			"name": "PM-WANI PDOA Registry For Radius-MYSQL",
-			"description": "The PM-WANI PDOA Registry pmwani.gov.in/wani is a web-based application designed to facilitate the registration and management of Public Data Office Aggregators (PDOAs) within the PM-WANI (Public Wi-Fi Access Network Interface) framework. This platform allows service providers to efficiently register their PDOAs, manage user data, and streamline the process of providing public Wi-Fi access. By leveraging PDOAs, the registry enhances connectivity and accessibility, ensuring a seamless user experience in public spaces.",
-			"ispaid": false,
-			"author": "Focuslinkstech",
-			"url": "https://t.me/focuslinkstech",
-			"github": "https://github.com/Focuslinkstech/phpnuxbill-pm-wani-pdoa-registry",
-			"last_update": "2024-10-28"
-		},
-		{
-			"id": "phpnuxbill-users-data-usage-plugin",
-			"name": "User Data Usage Plugin",
-			"description": "The User Data Usage Plugin is a feature for the Phpnuxbill for both user and admin , any suggestions just send it on whatsapp +249912740956.",
-			"ispaid": false,
-			"author": "amolood",
-			"url": "https://amolood.com",
-			"github": "https://github.com/amolood/phpnuxbill-users-data-usage-plugin",
-			"last_update": "2024-08-9"
-		},
-		{
-			"id": "custom_reminder_plugin",
-			"name": "Custom Reminder",
-			"description": "You can customize when reminder sent, 15 minutes before? 2 hours before? yes you can set it",
-			"ispaid": true,
-			"author": "ibnux",
-			"url": "https://t.me/ibnux",
-			"github": "https://github.com/hotspotbilling/custom_reminder_plugin",
-			"last_update": "2024-11-1"
-		},
-		{
-			"id": "plugin-free-internet",
-			"name": "Free Internet",
-			"description": "After customer register or login, it will activate free internet plan. customer can choose between free Internet or buy paid internet plan",
-			"ispaid": true,
-			"author": "ibnux",
-			"url": "https://t.me/ibnux",
-			"github": "https://github.com/hotspotbilling/plugin-free-internet",
-			"last_update": "2024-11-1"
-		},
-		{
-			"id": "plugin-go-snmp-olt-zte-c320",
-			"name": "Go snmp OLT ZTE C320",
-			"description": "Interface for Go snmp OLT ZTE C320",
-			"ispaid": false,
-			"author": "ibnux",
-			"url": "https://github.com/hotspotbilling/go-snmp-olt-zte-c320",
-			"github": "https://github.com/hotspotbilling/plugin-go-snmp-olt-zte-c320",
-			"last_update": "2024-11-1"
-		},
-		{
-			"id": "Verimor-SMS-Gateway",
-			"name": "Verimor SMS Gateway",
-			"description": "Türkiye’nin lider operatörleriyle doğrudan bağlantılar, ISO sertifikalı güvenli altyapı ve inovasyon odaklı AR-GE gücümüzle, iş ihtiyaçlarınıza özel, ölçeklenebilir çözümler sunuyoruz.",
-			"ispaid": false,
-			"author": "ibnux",
-			"url": "https://github.com/hotspotbilling/Verimor-SMS-Gateway",
-			"github": "https://github.com/hotspotbilling/Verimor-SMS-Gateway",
-			"last_update": "2025-07-29"
-		}
-	],
-	"payment_gateway": [
-		{
-			"id": "phpnuxbill-paypal",
-			"name": "Paypal",
-			"description": "Paypal Gateway, Country supported by Paypal",
-			"ispaid": false,
-			"author": "ibnux",
-			"url": "https://paypal.com",
-			"github": "https://github.com/hotspotbilling/phpnuxbill-paypal",
-			"last_update": "2023-03-12"
-		},
-		{
-			"id": "phpnuxbill-duitku",
-			"name": "Duitku *Rekomendasi*",
-			"description": "Duitku Direkomendasikan untuk pengguna di Indonesia, klik Website untuk melakukan pendaftaran",
-			"ispaid": false,
-			"author": "ibnux",
-			"url": "https://hs.aspireapp.com/id/phpnuxbill-aspire",
-			"github": "https://github.com/hotspotbilling/phpnuxbill-duitku",
-			"last_update": "2023-03-12"
-		},
-		{
-			"id": "phpnuxbill-tripay",
-			"name": "Tripay",
-			"description": "Tripay only in Indonesia",
-			"ispaid": false,
-			"author": "ibnux",
-			"url": "https://tripay.co.id/?ref=TP19304",
-			"github": "https://github.com/hotspotbilling/phpnuxbill-tripay",
-			"last_update": "2023-09-27"
-		},
-		{
-			"id": "phpnuxbill-tripay-proxy",
-			"name": "Tripay Proxy",
-			"description": "Tripay only in Indonesia. Payment Gateway ini untuk pengguna NuxBill yang tidak punya IP static",
-			"ispaid": false,
-			"author": "ibnux",
-			"url": "https://tripay.co.id/?ref=TP19304",
-			"github": "https://github.com/hotspotbilling/phpnuxbill-tripay-proxy",
-			"last_update": "2023-09-27"
-		},
-		{
-			"id": "phpnuxbill-xendit",
-			"name": "Xendit",
-			"description": "xendit only in Indonesia, Phillipine untested",
-			"ispaid": false,
-			"author": "ibnux",
-			"url": "https://xendit.com",
-			"github": "https://github.com/hotspotbilling/phpnuxbill-xendit",
-			"last_update": "2023-03-12"
-		},
-		{
-			"id": "umspay-payment-gateway",
-			"name": "umspay",
-			"description": "UMS Pay is Payment Gateway for Kenya",
-			"ispaid": false,
-			"author": "Alvin Kiveu",
-			"url": "https://portal.umeskiasoftwares.com",
-			"github": "https://github.com/hotspotbilling/umspay-payment-gateway",
-			"last_update": "2023-1-12"
-		},
-		{
-			"id": "phpnuxbill-bkash",
-			"name": "bKash",
-			"description": "Payment Gateway for Bangladesh",
-			"ispaid": false,
-			"author": "ibnux",
-			"url": "https://www.bkash.com",
-			"github": "https://github.com/hotspotbilling/phpnuxbill-bkash",
-			"last_update": "2023-7-7"
-		},
-		{
-			"id": "phpnuxbill-flutterwave-payment-gateway",
-			"name": "Flutterwave",
-			"description": "Payment Gateway FlutterWave",
-			"ispaid": false,
-			"author": "Focuslinkstech",
-			"url": "https://github.com/Focuslinkstech/phpnuxbill-flutterwave-payment-gateway",
-			"github": "https://github.com/Focuslinkstech/phpnuxbill-flutterwave-payment-gateway",
-			"last_update": "2023-7-28"
-		},
-		{
-			"id": "phpnuxbill-paystack-payment-gateway",
-			"name": "Paystack",
-			"description": "Payment Gateway Paystack.com",
-			"ispaid": false,
-			"author": "Focuslinkstech",
-			"url": "https://github.com/Focuslinkstech/phpnuxbill-paystack-payment-gateway",
-			"github": "https://github.com/Focuslinkstech/phpnuxbill-paystack-payment-gateway",
-			"last_update": "2023-7-28"
-		},
-		{
-			"id": "phpnuxbill-thawani-payment-gateway",
-			"name": "Thawani",
-			"description": "Thawani Pay app is the simplest, smartest, and most secure way to manage your finances anywhere, anytime. Link up to five bank cards within the app, top up your Mojab wallet, pay utility bills, buy gift cards, and more features. Explore Thawani app today and enjoy the experience.",
-			"ispaid": false,
-			"author": "Abdalrahman Molood",
-			"url": "https://github.com/amolood/phpnuxbill-thawani-payment-gateway",
-			"github": "https://github.com/amolood/phpnuxbill-thawani-payment-gateway",
-			"last_update": "2024-8-8"
-		},
-		{
-			"id": "Stripe-Payment-Gateway",
-			"name": "Stripe",
-			"description": "Payment Gateway Stripe.com, paid plugin, To download this, you need to setup Github Authentication",
-			"ispaid": true,
-			"author": "ibnux",
-			"url": "https://ibnux.github.io/pnb-plugin-shop/",
-			"github": "https://github.com/hotspotbilling/Stripe-Payment-Gateway",
-			"last_update": "2024-8-1"
-		},
-		{
-			"id": "PHPNuxBill-Hitpayapp-Payment-Gateway",
-			"name": "Hitpay",
-			"description": "Hitpay helps over 15,000 businesses across Southeast Asia and around the globe process payments efficiently and securely. We unify online, point of sale, and B2B payments into a single, integrated payment processing system.",
-			"ispaid": true,
-			"author": "ibnux",
-			"url": "https://ibnux.github.io/pnb-plugin-shop/",
-			"github": "https://github.com/hotspotbilling/PHPNuxBill-Hitpayapp-Payment-Gateway",
-			"last_update": "2024-8-14"
-		},
-		{
-			"id": "phpnuxbill-sslcommerz-payment-gateway",
-			"name": "SSLcommerz | Paid Plugin",
-			"description": "Payment Gateway sslcommerz.com, paid plugin, To download this, you need to setup Github Authentication",
-			"ispaid": true,
-			"author": "Focuslinkstech",
-			"url": "https://t.me/focuslinkstech",
-			"github": "https://github.com/Focuslinkstech/phpnuxbill-sslcommerz-payment-gateway",
-			"last_update": "2024-8-14"
-		},
-		{
-			"id": "phpnuxbill-payu-payment-gateway",
-			"name": "PayU.in | Paid Plugin",
-			"description": "Payment Gateway PayU.in, paid plugin, To download this, you need to setup Github Authentication",
-			"ispaid": true,
-			"author": "Focuslinkstech",
-			"url": "https://t.me/focuslinkstech",
-			"github": "https://github.com/Focuslinkstech/phpnuxbill-payu-payment-gateway",
-			"last_update": "2024-8-14"
-		},
-		{
-			"id": "allupipay-payment-gateway-for-phpnuxbill",
-			"name": "Allupipay.in | Paid Plugin",
-			"description": "Allupipay.in Accept Payments Directly to your Bank Account At 0% Transaction Fee, paid plugin, To download this, you need to setup Github Authentication.",
-			"ispaid": true,
-			"author": "Focuslinkstech",
-			"url": "https://t.me/focuslinkstech",
-			"github": "https://github.com/Focuslinkstech/allupipay-payment-gateway-for-phpnuxbill",
-			"last_update": "2024-9-04"
-		},
-		{
-			"id": "razorpay-payment-gateway-for-phpnuxbill",
-			"name": "Razorpay Payment Gateway | Paid Plugin",
-			"description": "The Razorpay Payment Plugin for PHP Nuxbill seamlessly integrates Razorpay's payment gateway into your Nuxbill application. This plugin enables businesses to accept online payments through various methods, including credit/debit cards, net banking, UPI, and digital wallets. With a user-friendly interface, secure transactions, and real-time payment notifications, the plugin simplifies payment processing for both merchants and customers. Enhance your billing system with this robust solution, ensuring a smooth and efficient payment experience.",
-			"ispaid": true,
-			"author": "Focuslinkstech",
-			"url": "https://shop.focuslinkstech.com.ng/item/razorpay-payment-gateway-for-phpnuxbill",
-			"github": "https://github.com/Focuslinkstech/",
-			"last_update": "2024-10-28"
-		}
-	],
-	"devices": [
-		{
-			"id": "Voucher-Device",
-			"name": "Voucher",
-			"description": "Customer can buy Voucher, it can activate later or give it as a Gift. Only for PHPNuxBill Version 2024.8.8 and above",
-			"ispaid": false,
-			"author": "ibnux",
-			"url": "https://github.com/hotspotbilling/Voucher-Device",
-			"github": "https://github.com/hotspotbilling/Voucher-Device",
-			"last_update": "2024-8-8"
-		},
-		{
-			"id": "Chillispot-Device",
-			"name": "Chillispot",
-			"description": "Hotspot Voucher using Chilispot Openwrt and Radius Mysql",
-			"ispaid": false,
-			"author": "Arneta.ID",
-			"url": "https://github.com/hotspotbilling/Chillispot-Device",
-			"github": "https://github.com/hotspotbilling/Chillispot-Device",
-			"last_update": "2024-8-13"
-		},
-        {
-            "id": "Mikrotik-StaticIP",
-            "name": "Mikrotik Static IP",
-            "description": "Can Add Static user under PPPoE Plan and use PPPoE IP",
-            "ispaid": false,
-            "author": "Gerandonk",
-            "url": "https://github.com/gerandonk/Mikrotik-StaticIP",
-            "github": "https://github.com/gerandonk/Mikrotik-StaticIP",
-            "last_update": "2024-10-25"
-        }
-	]
+  "plugins": [
+    {
+      "id": "routely",
+      "name": "Routely | SMS, WhatsApp and VPN",
+      "description": "VPN tunnels, SMS and WhatsApp for PHPNuxBill from one Routely account. Use your own Android phones or gateway, or link WhatsApp devices.",
+      "ispaid": false,
+      "author": "Focuslinkstech",
+      "url": "https://routely.focuslinkstech.com.ng/",
+      "zip": "https://routely-api.focuslinkstech.com.ng/v1/plugin/releases/routely-latest.zip",
+      "last_update": "2026-11-18"
+    },
+    {
+      "id": "QuickHotspot",
+      "name": "QuickHotspot | Paid Plugin",
+      "description": "MikroTik-direct hotspot voucher plugin for PHPNuxBill. Generate & sell vouchers instantly — no registration required. Features batch generation, self-service purchasing (Tripay/Duitku), print/PNG export, reseller commission system, and custom login page.",
+      "ispaid": true,
+      "author": "ExO",
+      "url": "https://t.me/Exoforb",
+      "github": "https://github.com/ExodiaForb-Plugin/QuickHotspot",
+      "last_update": "2026-04-22"
+    },
+    {
+      "id": "MIKROMON",
+      "name": "MIKROMON | Paid Plugin",
+      "description": "MikroTik monitoring plugin for PHPNuxBill with real-time PPPoE traffic, bandwidth, CPU, memory, uptime, usage history, remote access & port forwarding.",
+      "ispaid": true,
+      "author": "ExO",
+      "url": "https://t.me/Exoforb",
+      "github": "https://github.com/ExodiaForb-Plugin/Mikromon",
+      "last_update": "2026-03-21"
+    },
+    {
+      "id": "Alternative-WhatsApp-Gateway-Plugin-for-PHPNuxBill",
+      "name": "Alternative WhatsApp Gateway Plugin",
+      "description": "This plugin is created to provide an alternative WhatsApp gateway for PHPNuxBill. It allows users to send and receive messages via WhatsApp using a custom gateway.",
+      "ispaid": false,
+      "author": "Focuslinkstech",
+      "url": "https://github.com/Focuslinks-Tech/Alternative-WhatsApp-Gateway-Plugin-for-PHPNuxBill",
+      "github": "https://github.com/Focuslinks-Tech/Alternative-WhatsApp-Gateway-Plugin-for-PHPNuxBill",
+      "last_update": "2026-01-28"
+    },
+    {
+      "id": "Mapping-FFTH",
+      "name": "Mapping-FFTH | Paid Plugin",
+      "description": "FTTH mapping plugin for PHPNuxBill with OLT–ODC–ODP–ONT visualization and fiber routing.",
+      "ispaid": true,
+      "author": "ExO",
+      "url": "https://t.me/Exoforb",
+      "github": "https://github.com/ExodiaForb-Plugin/Mapping-FFTH",
+      "last_update": "2026-01-25"
+    },
+    {
+      "id": "GenieACS-Manager",
+      "name": "GenieACS Manager | Paid Plugin",
+      "description": "TR-069 Device Management Plugin - Multi-server GenieACS, WiFi management, device monitoring, auto sync.",
+      "ispaid": true,
+      "author": "ExO",
+      "url": "https://t.me/Exoforb",
+      "github": "https://github.com/ExodiaForb-Plugin/GenieACS-Manager",
+      "last_update": "2026-01-21"
+    },
+    {
+      "id": "phpnuxbill-quickadd-customer",
+      "name": "Add Customer + recharge",
+      "description": "Menambahkan customer sekaligus isi paketnya",
+      "ispaid": false,
+      "author": "agstrxyz",
+      "url": "https://github.com/agstrxyz/phpnuxbill-quickadd-customer",
+      "github": "https://github.com/agstrxyz/phpnuxbill-quickadd-customer",
+      "last_update": "2025-04-29"
+    },
+    {
+      "id": "phpnuxbill-router-monitor-plugin",
+      "name": "Mikrotik Monitoring",
+      "description": "This plugin is created to monitor Mikrotik Router from PHPNuxBill and its features include: Router System Information, Interface Monitoring, Online Hotspot Users, Online PPPoE Users. e.t.c ",
+      "ispaid": false,
+      "author": "Focuslinkstech",
+      "url": "https://github.com/Focuslinkstech/phpnuxbill-router-monitor-plugin",
+      "github": "https://github.com/Focuslinkstech/phpnuxbill-router-monitor-plugin",
+      "last_update": "2023-11-12"
+    },
+    {
+      "id": "phpnuxbill-plugin-mikrotik-import",
+      "name": "Mikrotik Import",
+      "description": "Import existing Mikrotik Hotspot Package and User to PHPNuxBill. This script will import Users and Profiles, but will not add active packages to user.",
+      "ispaid": false,
+      "author": "ibnux",
+      "url": "https://github.com/hotspotbilling/phpnuxbill-plugin-mikrotik-import",
+      "github": "https://github.com/hotspotbilling/phpnuxbill-plugin-mikrotik-import",
+      "last_update": "2022-12-14"
+    },
+    {
+      "id": "phpnuxbill-Internet-speedtest-plugin",
+      "name": "Internet Speed Test",
+      "description": "Speedtest plugin is designed to provide users with an easy and efficient way to measure their internet connection speed directly through the PHPNuxBill interface.",
+      "ispaid": false,
+      "author": "Focuslinkstech",
+      "url": "https://github.com/Focuslinkstech/phpnuxbill-Internet-speedtest-plugin",
+      "github": "https://github.com/Focuslinkstech/phpnuxbill-Internet-speedtest-plugin",
+      "last_update": "2024-06-8"
+    },
+    {
+      "id": "Plugin-Tripay-View-Payment",
+      "name": "Tripay View Payment",
+      "description": "Dengan Plugin ini, Pembeli tidak akan diarahkan ke Web Tripay, instruksi pembayaran akan langsung ditampilkan.",
+      "ispaid": false,
+      "author": "ibnux",
+      "url": "https://github.com/hotspotbilling/Plugin-Tripay-View-Payment",
+      "github": "https://github.com/hotspotbilling/Plugin-Tripay-View-Payment",
+      "last_update": "2023-09-27"
+    },
+    {
+      "id": "plugin-test-port",
+      "name": "Port Tester",
+      "description": "Check if your server block some port.",
+      "ispaid": false,
+      "author": "ibnux",
+      "url": "https://github.com/hotspotbilling/plugin-test-port",
+      "github": "https://github.com/hotspotbilling/plugin-test-port",
+      "last_update": "2023-08-23"
+    },
+    {
+      "id": "Radius-Client-Tester",
+      "name": "Radius Client Tester",
+      "description": "For testing Radius Server",
+      "ispaid": false,
+      "author": "Focuslinkstech",
+      "url": "https://github.com/Focuslinkstech/Radius-Client-Tester",
+      "github": "https://github.com/Focuslinkstech/Radius-Client-Tester",
+      "last_update": "2023-10-17"
+    },
+    {
+      "id": "phpnuxbill-clear-cache",
+      "name": "Clear Compiled Cache",
+      "description": "Clear compiled cache files",
+      "ispaid": false,
+      "author": "Focuslinkstech",
+      "url": "https://github.com/Focuslinkstech/phpnuxbill-clear-cache",
+      "github": "https://github.com/Focuslinkstech/phpnuxbill-clear-cache",
+      "last_update": "2023-10-25"
+    },
+    {
+      "id": "phpnuxbill-sytem-information-plugin",
+      "name": "System Information",
+      "description": "The plugin is used to monitor system or server performance, check running services",
+      "ispaid": false,
+      "author": "Focuslinkstech",
+      "url": "https://github.com/Focuslinkstech/phpnuxbill-sytem-information-plugin",
+      "github": "https://github.com/Focuslinkstech/phpnuxbill-sytem-information-plugin",
+      "last_update": "2023-11-3"
+    },
+    {
+      "id": "phpnuxbill-database-backup-and-restore-plugin",
+      "name": "Extended Database Backup and Restore",
+      "description": "This Plugin is used to create database backup, restore, and download, but it is still in development, it has a lot of bugs and needs to be fixed, you can pull a request if errors or bugs, and it will be maintained from time to time",
+      "ispaid": false,
+      "author": "Focuslinkstech",
+      "url": "https://github.com/Focuslinkstech/phpnuxbill-database-backup-and-restore-plugin",
+      "github": "https://github.com/Focuslinkstech/phpnuxbill-database-backup-and-restore-plugin",
+      "last_update": "2025-08-30"
+    },
+    {
+      "id": "PHPNuxBill-Assets-Manager",
+      "name": "PHPNuxBill Assets Manager",
+      "description": "The Asset Manager is a comprehensive plugin for PHPNuxBill that provides organizations with powerful tools to track, manage, and report on their physical and digital assets. This module seamlessly integrates with the PHPNuxBill platform, offering a complete asset lifecycle management solution.",
+      "ispaid": false,
+      "author": "Focuslinkstech",
+      "url": "https://github.com/Focuslinks-Tech/PHPNuxBill-Assets-Manager",
+      "github": "https://github.com/Focuslinks-Tech/PHPNuxBill-Assets-Manager",
+      "last_update": "2025-11-17"
+    },
+    {
+      "id": "phpnuxbill-radius-rest-online-users-viewer",
+      "name": "Radius Rest Online Users Viewer",
+      "description": "This plugin is designed for seamless integration with Radius rest servers, allowing administrator to monitor online clients effectively. This powerful tool provides real-time visibility into active user sessions and their current data usage, enabling administrators to manage network resources efficiently.",
+      "ispaid": false,
+      "author": "Focuslinkstech",
+      "url": "https://github.com/Focuslinks-Tech/phpnuxbill-radius-rest-online-users-viewer",
+      "github": "https://github.com/Focuslinks-Tech/phpnuxbill-radius-rest-online-users-viewer",
+      "last_update": "2025-12-17"
+    },
+    {
+      "id": "phpnuxbill-radius-online-users",
+      "name": "Radius online user viewer",
+      "description": "To see whos online, and can disconect the user",
+      "ispaid": false,
+      "author": "Gerandonks",
+      "url": "https://github.com/gerandonk/phpnuxbill-radius-online-users",
+      "github": "https://github.com/gerandonk/phpnuxbill-radius-online-users",
+      "last_update": "2024-02-08"
+    },
+    {
+      "id": "Radius-NAS-Status",
+      "name": "Radius NAS Online Offline Status Checker",
+      "description": "Radius NAS Status Plugin to Check Status About NAS Online / Offline",
+      "ispaid": false,
+      "author": "pravhjp",
+      "url": "https://github.com/pravhjp/Radius-NAS-Status",
+      "github": "https://github.com/pravhjp/Radius-NAS-Status",
+      "last_update": "2024-08-09"
+    },
+    {
+      "id": "WhatsApp-Gateway-Plugin-for-PHPNuxBill",
+      "name": "Whatsapp Gateway",
+      "description": "Whatsapp Gateway Client Multiple Phone Number, random send.",
+      "ispaid": false,
+      "author": "ibnux",
+      "url": "https://github.com/hotspotbilling/WhatsApp-Gateway-Plugin-for-PHPNuxBill",
+      "github": "https://github.com/hotspotbilling/WhatsApp-Gateway-Plugin-for-PHPNuxBill",
+      "last_update": "2024-06-27"
+    },
+    {
+      "id": "IPDR-Plugin",
+      "name": "IPDR Plugin | Paid Plugin",
+      "description": "Internet Protocol Detail Record (IPDR) to log Customer activity, Works with Hotspot, PPPOE, and radius. To download this, you need to setup Github Authentication",
+      "ispaid": true,
+      "author": "ibnux",
+      "url": "https://ibnux.github.io/pnb-plugin-shop/",
+      "github": "https://github.com/hotspotbilling/IPDR-Plugin",
+      "last_update": "2024-07-2"
+    },
+    {
+      "id": "Twilio-Plugin",
+      "name": "Twilio-Plugin | Paid Plugin",
+      "description": "Using Twillio as Gateway to send SMS or Whatsapp",
+      "ispaid": true,
+      "author": "ibnux",
+      "url": "https://ibnux.github.io/pnb-plugin-shop/",
+      "github": "https://github.com/hotspotbilling/Twilio-Plugin",
+      "last_update": "2024-07-2"
+    },
+    {
+      "id": "phpnuxbill-hotspot-system",
+      "name": "Advanced Hotspot System | Paid Plugin",
+      "description": "Phpnuxbill Hotspot System Plugin is a powerful and versatile tool for managing and automating hotspot networks. It is designed to be integrated with the Phpnuxbill billing and customer management platform, providing a comprehensive solution for small and medium-sized businesses that offer public internet access.",
+      "ispaid": true,
+      "author": "Focuslinkstech",
+      "url": "https://t.me/focuslinkstech",
+      "github": "https://github.com/Focuslinkstech/phpnuxbill-hotspot-system",
+      "last_update": "2024-08-28"
+    },
+    {
+      "id": "phpnuxbill-support-system",
+      "name": "Support Ticket System | Paid Plugin",
+      "description": "The Phpnuxbill Plugin Support Ticket is a powerful and versatile plugin designed to enhance customer support and streamline ticket management within your Phpnuxbill environment. This plugin provides a seamless and efficient way to handle customer inquiries, technical issues, and other support-related matters.",
+      "ispaid": true,
+      "author": "Focuslinkstech",
+      "url": "https://t.me/focuslinkstech",
+      "github": "https://github.com/Focuslinkstech/phpnuxbill-support-system",
+      "last_update": "2024-08-29"
+    },
+    {
+      "id": "mpesa-stkpush-hotspot-system-payment-gatetway",
+      "name": "MPesa STKPush Hotspot System Gateway | Paid Plugin",
+      "description": "The MPesa STKPush Hotspot System Payment Gateway allows users to seamlessly pay for internet access using MPesa. It integrates directly with the hotspot system for phpnuxbill, prompting users to authorize payments via their mobile device, ensuring a secure and efficient transaction process. This gateway simplifies the payment experience, making it easier for customers to purchase internet access on the go. works with hotspot system only.",
+      "ispaid": true,
+      "author": "Focuslinkstech",
+      "url": "https://shop.focuslinkstech.com.ng/item/hotspot-system-mpesa-payment-gateway",
+      "github": "https://github.com/Focuslinkstech/mpesa-stkpush-hotspot-system-payment-gatetway",
+      "last_update": "2024-08-14"
+    },
+    {
+      "id": "paystack-hotspot-system-payment-gatetway",
+      "name": "Paystack Hotspot System Gateway | Paid Plugin",
+      "description": "The Paystack Hotspot System Payment Gateway is a secure and efficient solution that enables users to pay for Wi-Fi hotspot access using Paystack's reliable payment processing platform. It integrates seamlessly with the hotspot system for phpnuxbill, offering a smooth payment experience with various payment methods, ensuring fast and hassle-free transactions for users accessing internet services, works with hotspot system only.",
+      "ispaid": true,
+      "author": "Focuslinkstech",
+      "url": "https://shop.focuslinkstech.com.ng/item/paystack-payment-gateway-for-hotspot-system-plugin",
+      "github": "https://github.com/Focuslinkstech/paystack-hotspot-system-payment-gatetway",
+      "last_update": "2024-08-14"
+    },
+    {
+      "id": "phpnuxbill-freeradius-mysql-data-usage-plugin",
+      "name": "Advanced Radius-MySQL Data Usage | Paid Plugin",
+      "description": "Advanced Data Usage Plugin for Radius-MySQL, its designed to monitor user daily weekly and monthtly data consumption, To download this, you need to setup Github Authentication.",
+      "ispaid": true,
+      "author": "Focuslinkstech",
+      "url": "https://t.me/focuslinkstech",
+      "github": "https://github.com/Focuslinkstech/phpnuxbill-freeradius-mysql-data-usage-plugin",
+      "last_update": "2024-08-14"
+    },
+    {
+      "id": "phpnuxbill-mikrotik-data-usage-pppoe-plugin",
+      "name": "Advanced Mikrotik PPPoE Data Usage | Paid Plugin",
+      "description": "Advanced Mikrotik PPPoE Data Usage, it uses Mikrotik API, you admin can check user periodic data usages, like monthtly, weeklyand daily usages and live traffic it works only if the user is onine, To use this, you need to buy from the store.",
+      "ispaid": true,
+      "author": "Focuslinkstech",
+      "url": "https://shop.focuslinkstech.com.ng/item/advanced-mikrotik-api-data-usage",
+      "github": "https://github.com/Focuslinkstech/phpnuxbill-mikrotik-data-usage-pppoe-plugin",
+      "last_update": "2025-004-11"
+    },
+    {
+      "id": "phpnuxbill-suspension-page-plugin",
+      "name": "Suspension and Payment Page",
+      "description": "Suspension Page with payment processing page, its designed to ease customer payment, with user verification, This plugin is free but you have purchased the payment gateway.",
+      "ispaid": false,
+      "author": "Focuslinkstech",
+      "url": "https://t.me/focuslinkstech",
+      "github": "https://github.com/Focuslinkstech/phpnuxbill-suspension-page-plugin",
+      "last_update": "2024-08-14"
+    },
+    {
+      "id": "mpesa-c2b-payment-plugin",
+      "name": "Mpesa C2B Offline Payment | Paid Plugin",
+      "description": "The Mpesa C2B Payment Offline Plugin enables businesses to accept payments via Paybill Number. It seamlessly integrates with PHPNuxBill, verifying and validating payments from Safaricom. The plugin efficiently manages customer payments, transaction processing, and balance updates, SMS and WhatsApp notifications, etc.",
+      "ispaid": true,
+      "author": "Focuslinkstech",
+      "url": "https://shop.focuslinkstech.com.ng/item/safaricomm-mpesa-c2b-offline-payment",
+      "github": "https://github.com/Focuslinkstech/mpesa-c2b-payment-plugin",
+      "last_update": "2024-08-29"
+    },
+    {
+      "id": "africas-talking-sms-plugin-for-phpnuxbill",
+      "name": "Africas Talking SMS Plugin| Paid Plugin",
+      "description": "Africa's Talking SMS plugin for PHPNuxbill is a powerful tool that enables seamless integration of SMS capabilities into PHPNuxbill by leveraging the Africa's Talking platform. This plugin allows users to send SMS messages, facilitating efficient customer notifications, reminders, and updates.",
+      "ispaid": true,
+      "author": "Focuslinkstech",
+      "url": "https://t.me/focuslinkstech",
+      "github": "https://github.com/Focuslinkstech/africas-talking-sms-plugin-for-phpnuxbill",
+      "last_update": "2024-09-04"
+    },
+    {
+      "id": "phpnuxbill-recharge-cards-plugin",
+      "name": "Recharge Cards Plugin",
+      "description": "Sell recharge cards to you cstomers with peace of mind and security.",
+      "ispaid": false,
+      "author": "Focuslinkstech",
+      "url": "https://t.me/focuslinkstech",
+      "github": "https://github.com/Focuslinkstech/phpnuxbill-recharge-cards-plugin",
+      "last_update": "2024-10-20"
+    },
+    {
+      "id": "phpnuxbill-pm-wani-pdoa-registry",
+      "name": "PM-WANI PDOA Registry For Radius-MYSQL",
+      "description": "The PM-WANI PDOA Registry pmwani.gov.in/wani is a web-based application designed to facilitate the registration and management of Public Data Office Aggregators (PDOAs) within the PM-WANI (Public Wi-Fi Access Network Interface) framework. This platform allows service providers to efficiently register their PDOAs, manage user data, and streamline the process of providing public Wi-Fi access. By leveraging PDOAs, the registry enhances connectivity and accessibility, ensuring a seamless user experience in public spaces.",
+      "ispaid": false,
+      "author": "Focuslinkstech",
+      "url": "https://t.me/focuslinkstech",
+      "github": "https://github.com/Focuslinkstech/phpnuxbill-pm-wani-pdoa-registry",
+      "last_update": "2024-10-28"
+    },
+    {
+      "id": "phpnuxbill-users-data-usage-plugin",
+      "name": "User Data Usage Plugin",
+      "description": "The User Data Usage Plugin is a feature for the Phpnuxbill for both user and admin , any suggestions just send it on whatsapp +249912740956.",
+      "ispaid": false,
+      "author": "amolood",
+      "url": "https://amolood.com",
+      "github": "https://github.com/amolood/phpnuxbill-users-data-usage-plugin",
+      "last_update": "2024-08-9"
+    },
+    {
+      "id": "custom_reminder_plugin",
+      "name": "Custom Reminder",
+      "description": "You can customize when reminder sent, 15 minutes before? 2 hours before? yes you can set it",
+      "ispaid": true,
+      "author": "ibnux",
+      "url": "https://t.me/ibnux",
+      "github": "https://github.com/hotspotbilling/custom_reminder_plugin",
+      "last_update": "2024-11-1"
+    },
+    {
+      "id": "plugin-free-internet",
+      "name": "Free Internet",
+      "description": "After customer register or login, it will activate free internet plan. customer can choose between free Internet or buy paid internet plan",
+      "ispaid": true,
+      "author": "ibnux",
+      "url": "https://t.me/ibnux",
+      "github": "https://github.com/hotspotbilling/plugin-free-internet",
+      "last_update": "2024-11-1"
+    },
+    {
+      "id": "plugin-go-snmp-olt-zte-c320",
+      "name": "Go snmp OLT ZTE C320",
+      "description": "Interface for Go snmp OLT ZTE C320",
+      "ispaid": false,
+      "author": "ibnux",
+      "url": "https://github.com/hotspotbilling/go-snmp-olt-zte-c320",
+      "github": "https://github.com/hotspotbilling/plugin-go-snmp-olt-zte-c320",
+      "last_update": "2024-11-1"
+    },
+    {
+      "id": "Verimor-SMS-Gateway",
+      "name": "Verimor SMS Gateway",
+      "description": "Türkiye’nin lider operatörleriyle doğrudan bağlantılar, ISO sertifikalı güvenli altyapı ve inovasyon odaklı AR-GE gücümüzle, iş ihtiyaçlarınıza özel, ölçeklenebilir çözümler sunuyoruz.",
+      "ispaid": false,
+      "author": "ibnux",
+      "url": "https://github.com/hotspotbilling/Verimor-SMS-Gateway",
+      "github": "https://github.com/hotspotbilling/Verimor-SMS-Gateway",
+      "last_update": "2025-07-29"
+    }
+  ],
+  "payment_gateway": [
+    {
+      "id": "phpnuxbill-paypal",
+      "name": "Paypal",
+      "description": "Paypal Gateway, Country supported by Paypal",
+      "ispaid": false,
+      "author": "ibnux",
+      "url": "https://paypal.com",
+      "github": "https://github.com/hotspotbilling/phpnuxbill-paypal",
+      "last_update": "2023-03-12"
+    },
+    {
+      "id": "phpnuxbill-duitku",
+      "name": "Duitku *Rekomendasi*",
+      "description": "Duitku Direkomendasikan untuk pengguna di Indonesia, klik Website untuk melakukan pendaftaran",
+      "ispaid": false,
+      "author": "ibnux",
+      "url": "https://hs.aspireapp.com/id/phpnuxbill-aspire",
+      "github": "https://github.com/hotspotbilling/phpnuxbill-duitku",
+      "last_update": "2023-03-12"
+    },
+    {
+      "id": "phpnuxbill-tripay",
+      "name": "Tripay",
+      "description": "Tripay only in Indonesia",
+      "ispaid": false,
+      "author": "ibnux",
+      "url": "https://tripay.co.id/?ref=TP19304",
+      "github": "https://github.com/hotspotbilling/phpnuxbill-tripay",
+      "last_update": "2023-09-27"
+    },
+    {
+      "id": "phpnuxbill-tripay-proxy",
+      "name": "Tripay Proxy",
+      "description": "Tripay only in Indonesia. Payment Gateway ini untuk pengguna NuxBill yang tidak punya IP static",
+      "ispaid": false,
+      "author": "ibnux",
+      "url": "https://tripay.co.id/?ref=TP19304",
+      "github": "https://github.com/hotspotbilling/phpnuxbill-tripay-proxy",
+      "last_update": "2023-09-27"
+    },
+    {
+      "id": "phpnuxbill-xendit",
+      "name": "Xendit",
+      "description": "xendit only in Indonesia, Phillipine untested",
+      "ispaid": false,
+      "author": "ibnux",
+      "url": "https://xendit.com",
+      "github": "https://github.com/hotspotbilling/phpnuxbill-xendit",
+      "last_update": "2023-03-12"
+    },
+    {
+      "id": "umspay-payment-gateway",
+      "name": "umspay",
+      "description": "UMS Pay is Payment Gateway for Kenya",
+      "ispaid": false,
+      "author": "Alvin Kiveu",
+      "url": "https://portal.umeskiasoftwares.com",
+      "github": "https://github.com/hotspotbilling/umspay-payment-gateway",
+      "last_update": "2023-1-12"
+    },
+    {
+      "id": "phpnuxbill-bkash",
+      "name": "bKash",
+      "description": "Payment Gateway for Bangladesh",
+      "ispaid": false,
+      "author": "ibnux",
+      "url": "https://www.bkash.com",
+      "github": "https://github.com/hotspotbilling/phpnuxbill-bkash",
+      "last_update": "2023-7-7"
+    },
+    {
+      "id": "phpnuxbill-flutterwave-payment-gateway",
+      "name": "Flutterwave",
+      "description": "Payment Gateway FlutterWave",
+      "ispaid": false,
+      "author": "Focuslinkstech",
+      "url": "https://github.com/Focuslinkstech/phpnuxbill-flutterwave-payment-gateway",
+      "github": "https://github.com/Focuslinkstech/phpnuxbill-flutterwave-payment-gateway",
+      "last_update": "2023-7-28"
+    },
+    {
+      "id": "phpnuxbill-paystack-payment-gateway",
+      "name": "Paystack",
+      "description": "Payment Gateway Paystack.com",
+      "ispaid": false,
+      "author": "Focuslinkstech",
+      "url": "https://github.com/Focuslinkstech/phpnuxbill-paystack-payment-gateway",
+      "github": "https://github.com/Focuslinkstech/phpnuxbill-paystack-payment-gateway",
+      "last_update": "2023-7-28"
+    },
+    {
+      "id": "phpnuxbill-thawani-payment-gateway",
+      "name": "Thawani",
+      "description": "Thawani Pay app is the simplest, smartest, and most secure way to manage your finances anywhere, anytime. Link up to five bank cards within the app, top up your Mojab wallet, pay utility bills, buy gift cards, and more features. Explore Thawani app today and enjoy the experience.",
+      "ispaid": false,
+      "author": "Abdalrahman Molood",
+      "url": "https://github.com/amolood/phpnuxbill-thawani-payment-gateway",
+      "github": "https://github.com/amolood/phpnuxbill-thawani-payment-gateway",
+      "last_update": "2024-8-8"
+    },
+    {
+      "id": "Stripe-Payment-Gateway",
+      "name": "Stripe",
+      "description": "Payment Gateway Stripe.com, paid plugin, To download this, you need to setup Github Authentication",
+      "ispaid": true,
+      "author": "ibnux",
+      "url": "https://ibnux.github.io/pnb-plugin-shop/",
+      "github": "https://github.com/hotspotbilling/Stripe-Payment-Gateway",
+      "last_update": "2024-8-1"
+    },
+    {
+      "id": "PHPNuxBill-Hitpayapp-Payment-Gateway",
+      "name": "Hitpay",
+      "description": "Hitpay helps over 15,000 businesses across Southeast Asia and around the globe process payments efficiently and securely. We unify online, point of sale, and B2B payments into a single, integrated payment processing system.",
+      "ispaid": true,
+      "author": "ibnux",
+      "url": "https://ibnux.github.io/pnb-plugin-shop/",
+      "github": "https://github.com/hotspotbilling/PHPNuxBill-Hitpayapp-Payment-Gateway",
+      "last_update": "2024-8-14"
+    },
+    {
+      "id": "phpnuxbill-sslcommerz-payment-gateway",
+      "name": "SSLcommerz | Paid Plugin",
+      "description": "Payment Gateway sslcommerz.com, paid plugin, To download this, you need to setup Github Authentication",
+      "ispaid": true,
+      "author": "Focuslinkstech",
+      "url": "https://t.me/focuslinkstech",
+      "github": "https://github.com/Focuslinkstech/phpnuxbill-sslcommerz-payment-gateway",
+      "last_update": "2024-8-14"
+    },
+    {
+      "id": "phpnuxbill-payu-payment-gateway",
+      "name": "PayU.in | Paid Plugin",
+      "description": "Payment Gateway PayU.in, paid plugin, To download this, you need to setup Github Authentication",
+      "ispaid": true,
+      "author": "Focuslinkstech",
+      "url": "https://t.me/focuslinkstech",
+      "github": "https://github.com/Focuslinkstech/phpnuxbill-payu-payment-gateway",
+      "last_update": "2024-8-14"
+    },
+    {
+      "id": "allupipay-payment-gateway-for-phpnuxbill",
+      "name": "Allupipay.in | Paid Plugin",
+      "description": "Allupipay.in Accept Payments Directly to your Bank Account At 0% Transaction Fee, paid plugin, To download this, you need to setup Github Authentication.",
+      "ispaid": true,
+      "author": "Focuslinkstech",
+      "url": "https://t.me/focuslinkstech",
+      "github": "https://github.com/Focuslinkstech/allupipay-payment-gateway-for-phpnuxbill",
+      "last_update": "2024-9-04"
+    },
+    {
+      "id": "razorpay-payment-gateway-for-phpnuxbill",
+      "name": "Razorpay Payment Gateway | Paid Plugin",
+      "description": "The Razorpay Payment Plugin for PHP Nuxbill seamlessly integrates Razorpay's payment gateway into your Nuxbill application. This plugin enables businesses to accept online payments through various methods, including credit/debit cards, net banking, UPI, and digital wallets. With a user-friendly interface, secure transactions, and real-time payment notifications, the plugin simplifies payment processing for both merchants and customers. Enhance your billing system with this robust solution, ensuring a smooth and efficient payment experience.",
+      "ispaid": true,
+      "author": "Focuslinkstech",
+      "url": "https://shop.focuslinkstech.com.ng/item/razorpay-payment-gateway-for-phpnuxbill",
+      "github": "https://github.com/Focuslinkstech/",
+      "last_update": "2024-10-28"
+    }
+  ],
+  "devices": [
+    {
+      "id": "Voucher-Device",
+      "name": "Voucher",
+      "description": "Customer can buy Voucher, it can activate later or give it as a Gift. Only for PHPNuxBill Version 2024.8.8 and above",
+      "ispaid": false,
+      "author": "ibnux",
+      "url": "https://github.com/hotspotbilling/Voucher-Device",
+      "github": "https://github.com/hotspotbilling/Voucher-Device",
+      "last_update": "2024-8-8"
+    },
+    {
+      "id": "Chillispot-Device",
+      "name": "Chillispot",
+      "description": "Hotspot Voucher using Chilispot Openwrt and Radius Mysql",
+      "ispaid": false,
+      "author": "Arneta.ID",
+      "url": "https://github.com/hotspotbilling/Chillispot-Device",
+      "github": "https://github.com/hotspotbilling/Chillispot-Device",
+      "last_update": "2024-8-13"
+    },
+    {
+      "id": "Mikrotik-StaticIP",
+      "name": "Mikrotik Static IP",
+      "description": "Can Add Static user under PPPoE Plan and use PPPoE IP",
+      "ispaid": false,
+      "author": "Gerandonk",
+      "url": "https://github.com/gerandonk/Mikrotik-StaticIP",
+      "github": "https://github.com/gerandonk/Mikrotik-StaticIP",
+      "last_update": "2024-10-25"
+    }
+  ]
 }
