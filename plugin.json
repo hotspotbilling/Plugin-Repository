@@ -188,5 +188,15 @@
         "url": "https://t.me/Exoforb",
         "github": "https://github.com/exoforb/GenieACS-Manager",
         "last_update": "2026-01-21"
+    },
+    {
+        "id": "datausage",
+        "name": "Data Usage",
+        "description": "Real-time PPPoE/Hotspot session tracking, live traffic monitoring, and MikroTik webhook collector for PHPNuxBill.",
+        "ispaid": false,
+        "author": "Mahmud",
+        "url": "https://t.me/mhmd_3010",
+        "github": "https://github.com/mhmd3010/datausage",
+        "last_update": "2026-11-27"
     }
 ]
